@@ -1,0 +1,275 @@
+1,2d0
+< Here's the info packet about my speeches.
+< 
+4,11c2,8
+< 2 and 2.5 hours.  That typically includes over one and a half hours of
+< my speaking, plus plenty of time for questions, because people usually
+< want to ask a lot of questions.
+< 
+< I can manage to squeeze a speech on this topic into an hour, but some
+< subtopics will be omitted and there will be no time for questions.
+< Once we are going to the trouble and expense of having me come and
+< speak, we may as well do a thorough job of it.
+---
+> 2 and 2.5 hours.  That typically includes about one and a half hours
+> of my speaking, plus plenty of time for questions, because people
+> usually want to ask a lot of questions.
+> 
+> I can also do a shorter speech about free software which takes one hour
+> plus time for questions.  Some subtopics will be omitted, and the
+> picture may not be as clear.
+16a14,17
+> For the shortened speech, we could use the title
+> 
+>     Free Software in Ethics and in Practice
+> 
+39a41,42
+> That abstract will work for the one-hour speech as well.
+> 
+75c78
+< I don't write my speeches in advance--it would take too much time.
+---
+> I don't write my speeches in advance--that would take too much time.
+81,84c84,87
+< I am selective about what sorts of events I am willing to participate
+< in.  If you are inviting me to speak at a larger event, please make
+< sure I am informed of the overall nature of the event, so I can make a
+< decision about whether I really want to participate.
+---
+> I am selective about the events I participate in.  If you are inviting
+> me to speak at a larger event, please inform me now of the overall
+> nature of the event, so I can make an informed decision about whether
+> to participate.
+86a90,96
+> See http://www.gnu.org/gnu/gnu-linux-faq.html for why it is incorrect
+> to refer to the operating system as "Linux".  "Open source" is the
+> slogan of a movement that was formed as a reaction against the free
+> software movement.  Those who support its views have a right to
+> promote them, but I would rather promote the ideals of free software.
+> See http://www.gnu.org/philosophy/free-software-for-freedom.html for
+> more explanation of the difference.
+102,104c112,115
+< do (I dislike the taste of coke, and of all diet soda).  If it is good
+< tea, I like it without milk and sugar.  No other facilities are
+< needed.
+---
+> do.  (I dislike the taste of coke, and of all diet soda; also, there
+> is an international boycott of the Coca Cola company for killing union
+> organizers in Colombia).  If it is good tea, I like it without milk
+> and sugar.  No other facilities are needed.
+109,110c120,123
+< I can speak in English or French.  I can give a speech in Spanish
+< if I have several days to practice the language before speaking.
+---
+> I can speak in English, French, and Spanish.  However, for Spanish it
+> is very important for a person to be seated next to me who speaks very
+> good English and Spanish, so I can ask him how to say certain things
+> when I need them.
+254c267
+< Many people assume that because I am travelling, I am having a
+---
+> Many people assume that because I am traveling, I am having a
+258c271
+< Nothing could be further from the truth.
+---
+> Alas, it's not that way for me.
+260c273,274
+< The fact is, I have no vacations.  I have to spend 6 to 8 hours *every
+---
+> The fact is, I have no vacations.  (Don't feel sorry for me; idleness
+> is not something I wish for.)  I have to spend 6 to 8 hours *every
+263,264c277,278
+< me, and if I skip it one day, I have to work double another day.
+< During the week I usually fall behind; on weekends I try to catch up.
+---
+> me, and if I skip it one day, I have to catch up another day.  During
+> the week I usually fall behind; on weekends I try to catch up.
+266,269c280,284
+< Travelling takes up time, so I will be extra busy during my visit.  So
+< please ask me *in advance* about *each* additional speech, meeting, or
+< other activity that would take time.  I don't mind being asked, and I
+< may say yes, but I also may say no.
+---
+> Traveling takes up time, so I will be extra busy during my visit.  And
+> it might be nice if I could do at least an hour or two of sightseeing
+> during the visit.  So please ask me *in advance* about *each*
+> additional speech, meeting, or other activity that would take time.  I
+> don't mind being asked, and I may say yes, but I also may say no.
+273c288,289
+< time.
+---
+> time.  I may be able to spend some of that time answering my mail, but
+> it depends on details.
+278c294
+< I am glad to give interviews to the press about the GNU Project, but
+---
+> I am glad to give interviews to the press about the GNU system, but
+321,325c337,341
+< You and the local people you know are better equipped than I am to
+< judge which journalists and which publications I should focus on.
+< Please try to judge both the importance of the publication and the
+< merits (intelligence, attention to accuracy, openness of mind, and
+< absence of bias) of the journalist, if you can.
+---
+> You and your associates can judge better than I do which journalists
+> and which publications I should focus on.  So I would like you to
+> advise me about that.  Please try to judge both the importance of the
+> publication and the merits (intelligence, attention to accuracy,
+> openness of mind, and absence of bias) of the journalist, if you can.
+341,342c357,358
+< tape needs to be changed.  I will pause.  I want to make sure the
+< recording is complete.
+---
+> tape needs to be changed.  I will pause.  Please help me help you make
+> the recording complete.
+351c367,368
+< OGG format is good for audio, and OpenDIVX is good for video.
+---
+> OGG/Vorbis format is good for audio, and OpenDIVX is good for video.
+> If OGG/Theora format is ready, let's use that for video.
+353,356c370,372
+< This requirement is very important, because if it is not followed, my
+< own speech will entice people to do the exact opposite of what I urge
+< them to do.  That would undercut the whole point of the speech; the
+< medium would contradict the message.
+---
+> This requirement is very important, because if it is not followed,
+> viewing my speech will require people to do the exact opposite of what
+> I ask them to do.  The medium would contradict the message.
+403,431c419
+< 
+< Flights:
+< 
+< I am travelling most of the time, and most of my trips include several
+< stops.  Chances are your city is neither the first nor the last stop
+< in the trip.  So please don't make assumptions about the itinerary;
+< instead, please ask me for whatever information you need.
+< 
+< Many organizations ask to buy the tickets and send them to me.  That
+< is ok with me, but it typically assumes the trip goes to just one
+< city.  That approach usually won't work for a multi-destination trip,
+< unless you want to pay for the whole trip.  So normally I buy the
+< tickets myself and get reimbursed by the various places I am visiting.
+< For a multi-destination trip, we will need to agree on what parts of
+< the travel expenses you should cover.
+< 
+< Some organizations feel that hospitality calls for providing me with a
+< business class ticket.  That is indeed more comfortable, but an
+< economy class seat is good enough even on an overnight flight if it is
+< a window seat.  Meanwhile, speaking is my main source of income, and
+< the extra price of a business class ticket would be a lot more useful
+< for me if I can spend it on something else.  So if you were thinking
+< of spending extra for business class, how about if you pay the
+< extra to me as a speaker's fee instead?
+< 
+< We should plan for me to arrive at least 24 hours before the speech;
+< that way, even if the flight is cancelled, there is a good chance I
+< can still arrive in time for the speech.
+< 
+---
+> (...)
+435a424
+> Please book the hotel for me and arrange to pay the hotel directly.
+451c440
+< there is a cat elsewhere in the house--I might even like them.  Dogs
+---
+> there is a cat elsewhere in the house--I might even enjoy it.  Dogs
+453,454c442,443
+< But if they only do that when we come in, I can cope as long as you
+< hold the dog away from me at that time.
+---
+> But if they only do that when we enter the house, I can cope as long
+> as you hold the dog away from me at that time.
+461,462c450,451
+< police.  In most cases, this intrusive policy applies not just to
+< foreigners like me, but even to citizens.  The citizens should be
+---
+> police.  In most cases, this orwellian policy applies not only to
+> foreigners like me, but to citizens as well!  The citizens should be
+501c490
+< laptop and the net, so I can do my ordinary work.  While travelling, I
+---
+> laptop and the net, so I can do my ordinary work.  While traveling, I
+504,506c493
+< the net from the place I am staying.  If there is a computer on the
+< net which has a floppy drive, I can transfer the data via that
+< computer.
+---
+> the net from the place I am staying.
+524a512,518
+> If a hotel says "We have internet access for customers", that is so
+> vague it is meaningless.  So please find out exactly what they have.
+> If they have ethernet connections, that will work, provided they do
+> not have a firewall that blocks ssh.  If they have phone lines for
+> computers, that will work if you come up with an ISP I can use.  If
+> they have wireless lan, that won't work, since I do not have wireless
+> cards.
+526,563c520
+< Paying me a reimbursement or a fee:
+< 
+< Please pay my reimbursement or fee to me personally; do not send it to
+< the FSF.  The FSF and I have completely separate finances, and the FSF
+< never pays for my travel.  The FSF welcomes donations, but please make
+< sure that money intended to me is not sent to them, because moving it
+< afterward would mean accounting headaches as well as extra work.
+< 
+< My assistant is not involved with my finances, so he cannot help you
+< with that issue.  Please send questions about payments to me directly.
+< 
+< If you pay me by check, and you're not in the US, make sure to get a
+< check that lists a corresponding US bank--otherwise it will cost me a
+< fee to deposit the check.  Please mail the check to:
+< 
+<   Richard Stallman
+<   545 Tech Sq rm 425
+<   Cambridge, MA 02139
+<   USA
+< 
+< Do not mail it to the FSF!
+< 
+< A wire transfer is also a good method of payment.  I will send you the
+< coordinates; ask if you need them.  But note that a fee is always
+< charged for making the transfer--please don't take that out of what
+< you've agreed to pay me.
+< 
+< Cash is also fine.
+< 
+< If you are outside the US, please convert your currency to dollars in
+< your bank, then use one of the above methods to pay me the dollars.
+< My bank gives very bad exchange rates; yours is surely better.
+< 
+< If you want an invoice, I will be glad to give you one.  Let's work
+< out what it should say by email before I arrive.  Please also check
+< before the visit whether you need any other forms, such as tax forms.
+< I would like to be able to take care of any necessary forms while I am
+< there, rather than wait till afterward.
+---
+> (...)
+571,574c528,532
+< they do.  I don't arrive with specific preferences for what kind of
+< food--rather, I want to have whatever is good: maybe the local
+< cuisine, or the food of an immigrant ethnic group which is present in
+< large numbers, or something unusual and original.
+---
+> they do.  I don't arrive with specific preferences for a kind of food
+> to eat--rather, I want to have whatever is good in the area: perhaps
+> the local traditional cuisine, or the food of an immigrant ethnic
+> group which is present in large numbers, or something unusual and
+> original.
+579,580c537,539
+<    dessert that contains fruit or liqueur
+<    fruits that are sour (grapefruit, most oranges)
+---
+>    eggplant, usually
+>    desserts that contain fruit or liqueur
+>    sour fruits, such as grapefruit and most oranges
+583a543
+>    oysters
+620,626d579
+< 
+< More arrangements:
+< 
+< Once we have a precise date for the speech, my assistant will contact
+< you with questions about the arrangements for the trip.  Please
+< respond as soon as possible with the information he asks for.
+< 

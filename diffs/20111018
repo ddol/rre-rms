@@ -1,0 +1,854 @@
+1c1,15
+< Here's the info packet about my speeches.
+---
+> Here's the info packet about my speeches.  This information is
+> essential for planning my visit and speech.  Please forward
+> it to anyone who is interested in organizing a speech for me.
+> 
+> 
+> Please discuss with me what the topic of this speech should be.
+> We need to decide it together.
+> 
+> 
+> My talks are not technical.  The topics of free software, copyright vs
+> community, and digital inclusion deal with ethical/political issues
+> that concern all users of computers.  The topics of GPL version 3 and
+> software patents are mainly of of interest to people that work with
+> software.
+> 
+4,6c18,21
+< little under 1.5 hours in English, plus time for questions.  It is
+< best to allow plenty of time for questions, because people usually
+< want to ask a lot of questions.
+---
+> little over 1.5 hours in English, plus time for questions, photos,
+> distribution of FSF things, and so on.  It is best to allow plenty of
+> time for questions, because people usually want to ask a lot of
+> questions.  In total, it is best to allow 2.5 hours.
+8c23,24
+< A typical title would be this:
+---
+> "GNU" is pronounced as one syllable with a hard g,
+> like "grew" but with n instead of r.
+10c26
+<      Free Software in Ethics and in Practice
+---
+> The topics I speak about are
+12c28,31
+< or
+---
+>     Free Software and Your Freedom
+>     (alternate titles:
+>      The Free Software Movement and the GNU/Linux Operating System,
+>      Free Software in Ethics and in Practice)
+14c33
+<      The Free Software Movement and the GNU/Linux Operating System
+---
+>     Copyright vs Community in the Age of Computer Networks
+16c35
+< Other possible topics include
+---
+>     The Danger of Software Patents
+18c37,38
+<      Copyright vs Community in the Age of Computer Networks
+---
+>     The GNU General Public License
+>       What we've changed in version 3, and why
+20c40,41
+< and
+---
+>     A Free Digital Society
+>     (alternate title, What Makes Digital Inclusion Good or Bad?)
+22c43,45
+<      The Danger of Software Patents
+---
+> These topics take about an hour and a quarter in English,
+> plus time for questions, photos, signatures, etc.  I suggest
+> allowing at least two hours.
+24d46
+< These topics take a little over an hour in English.
+34,37c56,66
+<      Richard Stallman will speak about the goals and philosophy of the
+<      Free Software Movement, and the status and history the GNU
+<      operating system, which in combination with the kernel Linux is
+<      now used by tens of millions of users world-wide.
+---
+>     The Free Software Movement campaigns for computer users' freedom
+>     to cooperate and control their own computing.  The Free Software
+>     Movement developed the GNU operating system, typically used together
+>     with the kernel Linux, specifically to make these freedoms possible.
+> 
+> or
+> 
+>     Richard Stallman will speak about the goals and philosophy of the
+>     Free Software Movement, and the status and history of the GNU
+>     operating system, which in combination with the kernel Linux is
+>     now used by tens of millions of users world-wide.
+41,51c70,80
+<      Copyright developed in the age of the printing press, and was designed
+<      to fit with the system of centralized copying imposed by the printing
+<      press.  But the copyright system does not fit well with computer
+<      networks, and only draconian punishments can enforce it.
+< 
+<      The global corporations that profit from copyright are lobbying
+<      for draconian punishments, and to increase their copyright powers,
+<      while suppressing public access to technology.  But if we
+<      seriously hope to serve the only legitimate purpose of
+<      copyright--to promote progress, for the benefit of the
+<      public--then we must make changes in the other direction.
+---
+>     Copyright developed in the age of the printing press, and was designed
+>     to fit with the system of centralized copying imposed by the printing
+>     press.  But the copyright system does not fit well with computer
+>     networks, and only draconian punishments can enforce it.
+> 
+>     The global corporations that profit from copyright are lobbying
+>     for draconian punishments, and to increase their copyright powers,
+>     while suppressing public access to technology.  But if we
+>     seriously hope to serve the only legitimate purpose of
+>     copyright--to promote progress, for the benefit of the
+>     public--then we must make changes in the other direction.
+55,61c84,108
+<      Richard Stallman will explain how software patents obstruct
+<      software development.  Software patents are patents that cover
+<      software ideas.  They restrict the development of software, so
+<      that every design decision brings a risk of getting sued.  Patents
+<      in other fields restrict factories, but software patents restrict
+<      every computer user.  Economic research shows that they even
+<      retard progress.
+---
+>     Richard Stallman will explain how software patents obstruct
+>     software development.  Software patents are patents that cover
+>     software ideas.  They restrict the development of software, so
+>     that every design decision brings a risk of getting sued.  Patents
+>     in other fields restrict factories, but software patents restrict
+>     every computer user.  Economic research shows that they even
+>     retard progress.
+> 
+> For The GNU General Public License
+> 
+>     Richard Stallman wrote the first GNU General Public License in
+>     1989, and version 3 which was completed in 2007.  He will discuss
+>     the philosophy of the GNU GPL, the changes made in version 3,
+>     and the reasons for those changes.
+> 
+> For A Free Digital Society
+> 
+>     Activities directed at ``including'' more people in the use of digital
+>     technology are predicated on the assumption that such inclusion is
+>     invariably a good thing.  It appears so, when judged solely by
+>     immediate practical convenience.  However, if we also judge in terms
+>     of human rights, whether digital inclusion is good or bad depends on
+>     what kind of digital world we are to be included in.  If we wish to
+>     work towards digital inclusion as a goal, it behooves us to make sure
+>     it is the good kind.
+66,74c113,121
+< Richard Stallman launched the development of the GNU operating system
+< (see www.gnu.org) in 1984.  GNU is free software: everyone has the
+< freedom to copy it and redistribute it, as well as to make changes
+< either large or small.  The GNU/Linux system, basically the GNU
+< operating system with Linux added, is used on tens of millions of
+< computers today.  Stallman has received the ACM Grace Hopper Award, a
+< MacArthur Foundation fellowship, the Electronic Frontier Foundation's
+< Pioneer award, and the the Takeda Award for Social/Economic
+< Betterment, as well as several honorary doctorates.
+---
+> Richard Stallman launched the free software movement in 1983 and
+> started the development of the GNU operating system (see www.gnu.org)
+> in 1984.  GNU is free software: everyone has the freedom to copy it
+> and redistribute it, with or without changes.  The GNU/Linux system,
+> basically the GNU operating system with Linux added, is used on tens
+> of millions of computers today.  Stallman has received the ACM Grace
+> Hopper Award, a MacArthur Foundation fellowship, the Electronic
+> Frontier Foundation's Pioneer Award, and the the Takeda Award for
+> Social/Economic Betterment, as well as several honorary doctorates.
+85a133,135
+> Other photos can be found on stallman.org.
+> 
+> 
+112c162
+< "Open source" is the slogan of a movement that was formed as a
+---
+> "Open source" is the slogan of a position that was formulated as a
+124,128c174,212
+< If you are thinking of erecting a larger event around my speech,
+< please talk with me about the plans for such a larger event _before_
+< proceeding with them.  I want to make sure the event entirely supports
+< what I am trying to achieve, and I want to review the publicity plans
+< for the event.
+---
+> If you are thinking of erecting a larger event around my speech, which
+> includes inviting other speakers to speak before or after me, please
+> talk with me about the plans for that larger event _before_ inviting
+> other speakers.  I want to make sure the event entirely supports the
+> goals and principles I work for, and I want to review the publicity
+> plans for the event.
+> 
+> 
+> Multiple events:
+> 
+> If you would like me to give speeches in other cities, other
+> institutions, or other events which you are not organizing directly,
+> please put rms-assist at gnu.org in touch directly with their organizers.
+> We need to show them this info packet, and we need to discuss various
+> issues with them just as we discuss the issues of your event with you.
+> Communication through a middleman is asking for confusion, so please
+> don't ask us to do that.
+> 
+> 
+> Venues and planning:
+> 
+> All my talks are aimed at the general computer-using public.  They are
+> not technical.  With good, broad publicity, many people will come --
+> usually hundreds.
+> 
+> So don't aim small.  Please plan each speech in a large room, then
+> plan the publicity to bring people in to fill it.  Please do not
+> suggest scheduling a "small speech", because that makes no sense as a
+> goal.  I would always rather reach as many people as I feasibly can.
+> 
+> If the speech is at a university, please do the publicity all around
+> the university.  Don't limit it to your department!  We also want
+> people from off-campus to come, so please inform local IT businesses,
+> user groups, and other relevant organizations.
+> 
+> We will also want to inform the region's daily newspapers so they can
+> put the speech in their calendar sections, and anything else we can
+> think of.  Each additional interested person who comes means an increase
+> in the results achieved by the speech.
+129a214,215
+> Make sure you inform the public that my talk is not technical, so
+> anyone interested in ethics and use of computers might wish to come.
+131d216
+< Facilities:
+133,139c218
+< A microphone is desirable if the room is large, but I have a very loud
+< voice, so I don't need one for a small or medium room.  A supply of
+< tea with milk and sugar would be nice; otherwise, non-diet pepsi will
+< do.  (I dislike the taste of coke, and of all diet soda; also, there
+< is an international boycott of the Coca Cola company for killing union
+< organizers in Colombia).  If it is good tea, I like it without milk
+< and sugar.
+---
+> Facilities:
+141,142c220,234
+< No other facilities are needed.  I do not have slides or any sort
+< of presentation materials.
+---
+> A microphone is desirable if the room is large.  No other facilities
+> are needed.  I do not have slides or any sort of presentation
+> materials.
+> 
+> A supply of tea with milk and sugar would be nice.  If it is tea I
+> really like, I like it without milk and sugar.  With milk and sugar,
+> any kind of tea is fine.  I always bring tea bags with me, so if we
+> use my tea bags, I will certainly like that tea without milk or sugar.
+> 
+> If I am quite sleepy, I would like two cans or small bottles of
+> non-diet Pepsi.  (I dislike the taste of coke, and of all diet soda;
+> also, there is an international boycott of the Coca Cola company for
+> killing union organizers in Colombia and Guatemala; see
+> killercoke.org.)  However, if I am not very sleepy, I won't want
+> Pepsi, because it is better if I don't drink so much sugar.
+150c242
+< is important to have a translator.  However, consecutive translation
+---
+> is important to have translation.  However, consecutive translation
+161a254,267
+> Another method is to set up a microphone and speaker system for the
+> interpreter in a far corner of the room, or a balcony.  If the
+> speakers are set up suitably, people there can hear the interpreter
+> well, while people in the front of the room can hear me well.
+> 
+> I can try to give a shortened free software speech (about 30 minutes
+> of material).  With consecutive translation it will take an hour or
+> more.  I will be forced to omit many important points in the usual
+> speech.  I do not like to omit so much.
+> 
+> If we have simultaneous translation, please make a recording
+> of the translation.  It will be very useful, and it is easy to do.
+> Any sound recorder, next to the interpreter, will do it.
+> 
+176a283,289
+> Another method, which works very well in some places, is to allow
+> people to attend gratis but charge for a certificate of attendance.
+> If the certificate is given by an educational institution, many will
+> find it useful for career advancement, while the others could enter
+> gratis.  Whether this would be effective in your country is something
+> you would need to judge.
+> 
+194c307,326
+< Publicity:
+---
+> Directing publicity:
+> 
+> My main speech topics are not technical.  They are about political
+> issues regarding the use of software, and anyone concerned about
+> ethical issues with effects on our daily lives should be concerned
+> about them.  Thus, when planning to publicize my talk, don't direct
+> the publicity primarily at computing organizations and computer
+> science departments.  That would only reach a fraction of the people
+> who might be interested.  Please also contact political science
+> departments, economics departments, philosophy departments, music
+> departments, and student groups interested in freedom and human rights
+> issues.  Let's aim to make the speech reach as many interested people
+> as possible.
+> 
+> The speech topics of software patents and GPLv3 are of interest
+> specifically to the IT field, so those you can publicize among IT
+> contacts.
+> 
+> 
+> Avoiding errors in publicity:
+249,413c381,387
+< For similar reasons, please don't use a penguin as a symbol for my
+< work, or on the posters or notices for my speech.  The penguin stands
+< for "Linux"; the symbol of GNU is a gnu.  So if you want to use a
+< graphical image to symbolize GNU or my work, please use a gnu.
+< 
+< If you have handled these issues well, nobody who looks at your
+< material will get the impression that I work on "open source", or that
+< I support "open source", or that my work is "part of Linux", or that I
+< participated in the "development of Linux", or that GNU is the name of
+< "a collection of tools".
+< 
+< As for the term "intellectual property", that spreads confusion and
+< hostile bias.  See http://www.gnu.org/philosophy/words-to-avoid.html
+< for explanation.  I hope you will decide to reject that expression, as
+< I do; but in any case, don't use it in connection with my speech.
+< 
+< 
+< Printing Free Software, Free Society
+< 
+< Please print copies of my book, Free Software, Free Society, to sell
+< at the event if you can.  The English version (230 pages) is available
+< in http://www.gnu.org/philosophy/fsfs/rms-essays.ps and the Spanish
+< version (318 pages) is in
+< http://www.gnu.org/philosophy/fsfs/free_software.es.pdf.
+< 
+< If you use ordinary copying and avoid fancy covers, you can sell them
+< for two or three times the cost of copying, and they will still be
+< cheap enough that many people will buy them.  Then you can give the
+< remaining money to the FSF, keeping some for your organization.
+< 
+< In the US, Canada, Spain and Italy you can obtain published copies in
+< English, Spanish, and Italian.
+< 
+< 
+< At the speech:
+< 
+< Please arrange for someone to hand out and collect our "contact cards".
+< 
+<     FSF would like to keep in touch with those who support us, to give
+<     you updates on what we are doing and how you can help.  If you are
+<     willing, Dr. Stallman asks that you fill out these contact cards,
+<     which he can take back with him so you can receive updates about
+<     FSF.  The FSF will not release this information unless forced to.
+< 
+< Please talk with my assistant to arrange this.
+< 
+< 
+< Changes of plans:
+< 
+< Don't assume that I can still come if you change the date.  My
+< schedule is tight.  If you change the date by even one day, I may be
+< unable to come.  However, I will certainly be flexible if there is no
+< obstacle.  Please consult with me before making any change, and I will
+< see what I can do.
+< 
+< 
+< Scheduling other meetings:
+< 
+< I have agreed to give a speech for you, and if the press wants to talk
+< with me, I will do that for the sake of the cause.  However, if you
+< would like me to give additional speeches or go to additional
+< meetings, please ask me first.  Please ask me about *each* activity
+< you would like me to perform.
+< 
+< Many people assume that because I am traveling, I am having a
+< vacation--that I have no other work to do, so I can spend the whole
+< day speaking or meeting with people.  Some hosts even feel that they
+< ought to try to fill up my time as a matter of good hospitality.
+< Alas, it's not that way for me.
+< 
+< The fact is, I have no vacations.  (Don't feel sorry for me; idleness
+< is not something I wish for.)  I have to spend 6 to 8 hours *every
+< day* doing my usual work, which is responding to email about the GNU
+< Project and the Free Software Movement.  Work comes in every day for
+< me, and if I skip it one day, I have to catch up another day.  During
+< the week I usually fall behind; on weekends I try to catch up.
+< 
+< Traveling takes up time, so I will be extra busy during my visit.  And
+< it might be nice if I could do at least an hour or two of sightseeing
+< during the visit.  So please ask me *in advance* about *each*
+< additional speech, meeting, or other activity that would take time.  I
+< don't mind being asked, and I may say yes, but I also may say no.
+< 
+< Remember that an additional speech, even if it is just a one-hour
+< speech, probably takes up two hours counting questions, autographs,
+< etc.  And then there is the travel time.
+< 
+< 
+< Interviews:
+< 
+< I am glad to give interviews to the press about the GNU system, but
+< before I do, I want to be sure they will not repeat the two common
+< mistakes (calling the whole system "Linux" and associating GNU or me
+< with "open source").  Please explain this, and ask the journalist if
+< he will agree to call the system "GNU/Linux" in the article, and to
+< make it clear that our work is "free software" not "open source".
+< Recommend reading http://www.gnu.org/gnu/linux-and-gnu.html and
+< http://www.gnu.org/philosophy/free-software-for-freedom.html for
+< explanations of these issues.  If the journalist agrees, then I agree
+< to an interview.  Please have this discussion by email, and save the
+< messages in both directions.
+< 
+< Sometimes a journalist gives a vaguely affirmative-sounding or
+< sympathetic response which does not really answer "yes".  Examples are
+< "I will do this as much as I can" and "I understand the distinction."
+< Such an answer is actually just "maybe", so when you receive one,
+< please ask for clarification.  If he says that the editor has the
+< final decision, please respond with "Would you please consult the
+< editor now, and tell us a firm decision?"
+< 
+< Also please ask journalists to *see my speech* before the interview.
+< My speeches are not technical; they focus on precisely the sort of
+< philosophical questions that a journalist would probably want to
+< cover.  If the journalist does not attend my speech, he will probably
+< start by asking me to answer the same questions that I answer in the
+< speech.  That is inefficient.
+< 
+< Please ask each journalist to agree to make a recording of the
+< interview.  Written notes are not reliable, so I have decided not to
+< do that sort of interview any more.
+< 
+< It is also a good idea for the journalist to read
+< http://www.gnu.org/gnu/the-gnu-project.html and some of the articles
+< in http://www.gnu.org/philosophy/ before the interview.  Those
+< articles provide important background.  This is especially important
+< for anyone who cannot come to my speech first.
+< 
+< I am willing to meet with any number of journalists, but if there are
+< many, I can't meet all of them individually (it would take too much
+< time).  So what I will do is give private interviews to 2 or maybe 3
+< of them, whichever ones you think are most important, and see the rest
+< of them as a group (i.e. in a press conference).
+< 
+< You and your associates can judge better than I do which journalists
+< and which publications I should focus on.  So I would like you to
+< advise me about that.  Please try to judge both the importance of the
+< publication and the merits (intelligence, attention to accuracy,
+< openness of mind, and absence of bias) of the journalist, if you can.
+< 
+< If you schedule a press conference or group interview, please *plan
+< the time of my speech to allow the inteview after it*.  It may be a
+< good idea to find out from journalists what times are good for them,
+< then schedule the conference, then schedule the speech before it.
+< This way, they will all be able to get the full picture.
+< 
+< 
+< Recording my speech:
+< 
+< Please do record the speech if you can.  We are always looking for
+< good recordings of my speeches, both audio and video, to put on line.
+< However, please do not record using a system that produces a
+< proprietary format such as Windows Media Player format.  I will not
+< speak to make a recording that requires non-free software to be
+< viewed.
+< 
+< The GNU Project keeps an on-line audio and video collection of speech
+< recordings in audio-video.gnu.org.  If you are making an audio or
+< video recording of my speech, please write to Nick Hill
+< <nick@nickhill.co.uk> well in advance of the speech.  He can advise
+< you on how to make a recording that is good for further use, and can
+< arrange to install your recording on our site.
+< 
+< If you are making a recording, please *make sure* to tell me when the
+< tape needs to be changed.  I will pause.  Please help me help you make
+< the recording complete.
+---
+> For simi how to make a recording that is good for further
+> use, and subsequently to arrange to install your recording on our
+> site.
+> 
+> When you are making a recording, please *make sure* to tell me when
+> the tape needs to be changed.  I will pause.  Please help me help you
+> make the recording complete.
+418,421c392,395
+< Please make sure that your audio or video recording is not compressed
+< with a substantially lossy codec (unless it is an Ogg codec).  If we
+< have to transcode the file, starting from a lower-quality base will
+< reduce the quality of the result.
+---
+> Please make sure that your recording is not compressed with a
+> substantially lossy codec (unless it is an Ogg codec).  If we have to
+> transcode the file, starting from a lower-quality base will reduce the
+> quality of the result.
+427c401,402
+< For video recordings, please use a high-quality encoding such as DV.
+---
+> For video recordings, please save the master recording, which will
+> probably be in miniDV format.
+432,434c407,410
+< convert audio to 64Kbps mono Ogg Vorbis, and convert video to
+< Ogg Theora with video quality set to 5 or more.  If you need advice
+< for how to do this, please ask.
+---
+> convert audio to 64Kbps mono Ogg Vorbis (or you could try Ogg Speex),
+> and convert video to Matroska VP8 or to Ogg Theora with video quality
+> set to 5 or more.  If you need advice for how to do this, please ask
+> audio-video at gnu.org.
+440,443c416,425
+< in digital form, that is ok provided you make sure that a user can
+< play the recording on a GNU/Linux system using only free software.
+< For instance, this means RealPlayer format is unacceptable.
+< Ogg Vorbis format is good for audio, and Ogg Theora for video.
+---
+> in digital form, I insist on using the formats of the free software
+> community: Ogg Vorbis or Ogg Speex format for audio, and Matroska VP8
+> (Webm) or Ogg Theora for video.  Please do not distribute my speech in
+> any other format.
+> 
+> Please do not ever broadcast or publish my speeches in formats that
+> are not good for free software.  I will not speak to make a recording
+> or broadcast that requires non-free software to be heard or viewed.
+> Don't use RealPlayer format, or Quicktime, or Windows Media Player
+> format, or a patented format such as MPEG2, MPEG4, or MP3.
+453a436,463
+> You can get advice and help in distributing Ogg files from Mallory
+> Knodel <mallory at mayfirst.org>.
+> 
+> 
+> Streaming the speech:
+> 
+> Streaming is a kind of Internet distribution, so everything in the
+> previous section applies.  In particular, you must use only Ogg format
+> or Matroska VP8 (Webm).
+> 
+> If you want to stream my speech but you have not done streaming in Ogg
+> or VP8 before, don't leave the matter till the last minute.  By then,
+> it will be too late.  Please try a test session two weeks before the
+> speech.  That way, if you encounter any problem, there will be time to
+> resolve it before the speech.
+> 
+> If you have previously done streaming using some streaming service and
+> you can't immediately name the format it uses, chances are it is
+> unacceptable and I won't let you use it for my speech.  So please
+> check, two weeks in advance, what format it uses.  If you find it uses
+> some bad format, you will have time to arrange for ethical streaming.
+> 
+> You can get advice and help in Ogg streaming from Mallory Knodel
+> <mallory at mayfirst.org>.  Please ask two weeks before the event; they
+> can do it faster faster, but why make their work hectic unnecessarily?
+> See https://support.mayfirst.org/wiki/live-video-streaming-support for
+> more info.
+> 
+464c474
+< you would have to pay for the ISDN calls and for the facilities at
+---
+> you would have to pay for the ISDN calls and for the facilities 
+517,522c527,531
+< economy class seat is good enough even on an overnight flight if it is
+< a window seat.  Meanwhile, speaking is my main source of income, and
+< the extra price of a business class ticket would be a lot more useful
+< for me if I can spend it on something else.  So if you were thinking
+< of spending extra for business class, how about if you pay the
+< extra to me as a speaker's fee instead?
+---
+> economy class seat is good enough.  Meanwhile, speaking is my main
+> source of income, and the extra price of a business class ticket would
+> be a lot more useful for me if I can spend it on something else.  So
+> if you were thinking of spending extra for business class, how about
+> if you pay the extra to me as a speaker's fee instead?
+524c533
+< We should plan for me to arrive (in the city itself, not just at the
+---
+> We should plan for me to arrive (at the site itself, not just at the
+544a554,566
+> Bus and train tickets:
+> 
+> If you buy bus or train tickets for me, do not give my name!  Big
+> Brother has no right to know where I travel, or where you travel, or
+> where anyone travels.  If they arbitrarily demand a name, give a name
+> that does not belong to any person you know of.  If they will check my
+> ID before I board the bus or train, then let's look for another way
+> for me to travel.  (In the US I never use long-distance trains because
+> of their ID policy.)
+> 
+> Don't give them your name either: please pay for the ticket in cash.
+> 
+> 
+553c575
+< I am willing to stay in a hotel if that is the way you want to do it.
+---
+> I am willing to stay in a hotel if there is no other way.
+556,561c578,605
+< But if there is anyone who wants to offer a spare couch, or even some
+< spare floor, I would much rather stay there than in a hotel (provided
+< I have a door I can close, in order to have some privacy).  Staying
+< with someone is more fun for me than a hotel, and it would also save
+< you money.  Floor space is sufficient because I bring an air mattress
+< with me.
+---
+> But please DON'T make a hotel reservation until we have fully explored
+> other options.  If there is anyone who wants to offer a spare couch, I
+> would much rather stay there than in a hotel (provided I have a door I
+> can close, in order to have some privacy).  Staying with someone is
+> more fun for me than a hotel, and it would also save you money.
+> 
+> My distaste for a hotel is less if it does not know my name, but
+> staying in a house with people is normally more enjoyable than staying
+> alone.
+> 
+> Many countries have a law that hotels must report all guests to the
+> police.  In most cases, this orwellian policy applies not only to
+> foreigners like me, but to citizens as well!  The citizens should be
+> outraged by this, but often they are not.
+> 
+> Please call the hotel and ask whether they will demand to see my
+> passport, and whether they report all their guests to the police.  If
+> it has this policy, please join me in striking a blow against Big
+> Brother, by looking for a place I can stay in that doesn't demand to
+> see my passport, or report my visit to anyone.  If the police want
+> information about free software, they are welcome to come to my
+> speech.
+> 
+> If you have found a person for me to stay with, please forward this
+> section and the two following sections to that person.
+> 
+> 
+> Temperature:
+565,568c609,614
+< temperature, an electric fan enables me to sleep.  More than 3 degrees
+< above that temperature, I need air conditioning to sleep.  If there is
+< a substantial chance of temperatures too hot for me, please arrange in
+< advance for me to have what I need.
+---
+> temperature, a strong electric fan blowing on me enables me to sleep.
+> More than 3 degrees above that temperature, I need air conditioning to
+> sleep.
+> 
+> If there is a substantial chance of indoor temperatures too hot for
+> me, please arrange _in advance_ for me to have what I need.
+586,602c632,634
+< If you put me in a hotel, please cover the costs of the telephone
+< calls I will need to transfer my email.  Some hotels charge a lot of
+< money for this.
+< 
+< Many countries have a law that hotels must report all guests to the
+< police.  In most cases, this orwellian policy applies not only to
+< foreigners like me, but to citizens as well!  The citizens should be
+< outraged by this, but often they are not.
+< 
+< Please call the hotel and ask whether they will demand to see my
+< passport.  If it has this policy, please join me in striking a blow
+< against Big Brother, by looking for a place I can stay in that doesn't
+< demand to see my passport.  If the police want information about free
+< software, they are welcome to come to my speech.
+< 
+< If you have found a person for me to stay with, please forward this
+< section and the two following sections to that person.
+---
+> Or look for a hotel that has a real cooling unit in the room, not a
+> central system.  Those tend to work well enough, if they are not
+> broken.
+611,615c643,650
+< cat elsewhere in the house--I might even enjoy it.  Dogs that bark
+< angrily and/or jump up on me frighten me, unless they are small and
+< cannot reach much above my knees.  But if they only bark or jump when
+< we enter the house, I can cope, as long as you hold the dog away from
+< me at that time.  Aside from that issue, I'm ok with dogs.
+---
+> cat elsewhere in the house--I might even enjoy it if the cat is
+> friendly.
+> 
+> Dogs that bark angrily and/or jump up on me frighten me, unless they
+> are small and cannot reach much above my knees.  But if they only bark
+> or jump when we enter the house, I can cope, as long as you hold the
+> dog away from me at that time.  Aside from that issue, I'm ok with
+> dogs.
+620a656,663
+> DON'T buy a parrot figuring that it will be a fun surprise for me.  To
+> acquire a parrot is a major decision: it is likely to outlive you.  If
+> you don't know how to treat the parrot, it could be emotionally
+> scarred and spend many decades feeling frightened and unhappy.  If you
+> buy a captured wild parrot, you will promote a cruel and devastating
+> practice, and the parrot will be emotionally scarred before you get it.
+> Meeting that sad animal is not an agreeable surprise.
+> 
+628,629c671,674
+< the net from the place I am staying.  I do NOT use browsers, I use the
+< SSH protocol.
+---
+> the net from the place I am staying.
+> 
+> I do NOT use browsers, I use the SSH protocol.  If the network
+> requires a proxy for SSH, I probably can't use it at all.
+634,635c679
+< they have a firewall?  Does it permit SSH connections?  If they use a
+< wireless network, will an Orinoco Gold card work with it?  What
+---
+> they have a firewall?  Does it permit SSH connections?  What
+638c682
+< Please check those things directly with the people who actually run
+---
+> Please check those things directly, or ask the people who actually run
+644a689,693
+> For reasons of principle, I am unwilling to identify myself in order
+> to connect to the Internet.  For instance, if a hotel gives a user
+> name and password to each room, I won't use that system, since it
+> would identify me.  I would need some other way to connect.
+> 
+655,662c704,720
+< I already have ISPs to call in the US and in many countries in Europe;
+< elsewhere, please find me a local ISP to call.  (It is best if you
+< lend me a permanent account that someone else uses, one that will
+< continue working afterward, so that I can use it again if I come back
+< or use it from other places in the region.)  Hotel phone rates may be
+< high; I expect you to cover them.  However, I normally connect to the
+< net only for around ten minutes at a time, twice a day, so the total
+< won't be too bad.
+---
+> My ISP phone numbers are old; I don't know if they will still work.
+> If you propose I use a modem, please find a number I can call.  It is
+> best if you lend me a permanent account that someone else uses, one
+> that will continue working afterward, so that I can use it again if I
+> come back or use it from other places in the region.  Hotel phone
+> rates may be high; I expect you to cover them.  However, I normally
+> connect to the net only for around ten minutes at a time, twice a day,
+> so the total won't be too big.
+> 
+> If I need to use a dialup connection, please cover the costs of the
+> telephone calls I will need to transfer my email -- especially in a
+> hotel.  Some hotels charge a lot of money for this.
+> 
+> Wireless modems mostly do not work with my machine, so do not plan on
+> my using one.  I won't refuse to use them if you have an expert who
+> can make it work, but success is rare.  If it involves loading a
+> nonfree driver, I will refuse.
+667c725
+< Please pay my reimbursement or fee to me personally; do not send it to
+---
+> Please pay my reimbursement or fee to me personally; do not pay it to
+670c728
+< sure that money intended to me is not sent to them, because moving it
+---
+> sure that money intended for me is not sent to them, because moving it
+673c731
+< My assistant is not involved with my finances, so he cannot help you
+---
+> My assistant is not involved with my finances, so she cannot help you
+678c736
+< fee to deposit the check.  Please mail the check to:
+---
+> fee to deposit the check.  Please mail the check _in US dollars_ to:
+680,683c738,741
+<      Richard Stallman
+<      77 Mass Ave rm 32-S381
+<      Cambridge MA 02139
+<      Phone number: 617-253-8830
+---
+>     Richard Stallman
+>     77 Mass Ave rm 32-381
+>     Cambridge MA 02139
+>     Phone number: +1-617-253-8830
+707a766,768
+> Please pass this section to everyone who will be helping me directly
+> in any fashion during the visit.
+> 
+722c783,784
+< in the chaotic traffic of Bangalore and Delhi.
+---
+> in the chaotic traffic of Bangalore and Delhi.  Please just leave me
+> alone when I cross streets.
+726c788
+< them, which is not a role I like.  I get to thinking that I might
+---
+> them, which is not a role I like.  I start to worry that I might
+743a806,818
+> When you need to tell me about a problem in a plan, please do not
+> start with a long apology.  That is unbearably boring, and unnecessary
+> -- conveying useful information is helpful and good, and why apologize
+> for that?  So please be practical and go straight to the point.
+> 
+> If I am typing on my computer and it is time to do something else,
+> please tell me.  Don't wait for me to "finish working" first, because
+> you would wait forever.  I have to squeeze in answering mail at every
+> possible opportunity, which includes whenever I have to wait.  I wait
+> by working.  If instead of telling me there is no more need for me to
+> wait, you wait for me to stop waiting for you, we will both wait
+> forever -- or until I figure out what's happening.
+> 
+773a849,851
+> I do not eat breakfast.  Please do not ask me any questions about
+> what I will do breakfast.  Please just do not bring it up.
+> 
+781c859,860
+< specializes in just one thing, you need to know what I dislike:
+---
+> specializes in just one thing, or invite me to dinner with a preset
+> menu, you need to know what I dislike:
+783,795c862,876
+<     avocado
+<     eggplant, usually (there are occasional exceptions)
+<     hot pepper
+<     liver (even in trace quantities)
+<     stomach and intestine; other organ meats
+<     oysters
+<     egg yolk, except when boiled completely hard
+<     many strong cheeses, especially those with green fungus
+<     desserts that contain fruit or liqueur
+<     sour fruits, such as grapefruit and most oranges
+<     beer
+<     coffee (though weak coffee flavor can be good in desserts)
+<     the taste of alcohol (so I don't drink anything stronger than wine)
+---
+>    avocado
+>    eggplant, usually (there are occasional exceptions)
+>    hot pepper
+>    olives
+>    liver (even in trace quantities)
+>    stomach and intestine; other organ meats
+>    cooked tuna
+>    oysters
+>    egg yolk, if the taste is noticeable, except when boiled completely hard
+>    many strong cheeses, especially those with green fungus
+>    desserts that contain fruit or liqueur flavors
+>    sour fruits, such as grapefruit and many oranges
+>    beer
+>    coffee (though weak coffee flavor can be good in desserts)
+>    the taste of alcohol (so I don't drink anything stronger than wine)
+800a882,884
+> As long as there are many alternatives to choose from, there will be
+> no problem.
+> 
+804,806c888,890
+< Wine is not very important to me--not like food.  I like some kinds of
+< wine, depending on the taste, and dislike others, but I don't remember
+< the names of wines I have liked, so it is useless to ask me.
+---
+> Wine is not very important to me--not like food.  I like some wines,
+> depending on the taste, and dislike others, but I don't remember the
+> names of wines I have liked, so it is useless to ask me.
+873c957,975
+< respond as soon as possible with the information he asks for.
+---
+> respond as soon as possible with the information she asks for.
+> 
+> Please do not ever mail me a file larger than 100k without asking me
+> first.  I almost certainly do not want to receive it in that form.  If
+> you would like feedback or approval for proposed publicity, please
+> talk with rms-assist about it, not with me.  If you want to give me
+> data about airplane tickets, please send that info as plain ASCII
+> text, not as images or PDFs.  Thank you.
+> 
+> -- 
+> Dr Richard Stallman
+> President, Free Software Foundation
+> 51 Franklin St
+> Boston MA 02110
+> USA
+> www.fsf.org  www.gnu.org
+> Skype: No way! That's nonfree (freedom-denying) software.
+>   Use free telephony http://directory.fsf.org/category/tel/
+> 

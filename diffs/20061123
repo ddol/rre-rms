@@ -1,0 +1,242 @@
+10c10
+<     Free Software in Ethics and in Practice
+---
+>      Free Software in Ethics and in Practice
+14c14
+<     The Free Software Movement and the GNU/Linux Operating System
+---
+>      The Free Software Movement and the GNU/Linux Operating System
+18c18
+<     Copyright vs Community in the Age of Computer Networks
+---
+>      Copyright vs Community in the Age of Computer Networks
+22c22
+<     The Danger of Software Patents
+---
+>      The Danger of Software Patents
+34,37c34,37
+<     Richard Stallman will speak about the goals and philosophy of the
+<     Free Software Movement, and the status and history the GNU
+<     operating system, which in combination with the kernel Linux is
+<     now used by tens of millions of users world-wide.
+---
+>      Richard Stallman will speak about the goals and philosophy of the
+>      Free Software Movement, and the status and history the GNU
+>      operating system, which in combination with the kernel Linux is
+>      now used by tens of millions of users world-wide.
+41,51c41,51
+<     Copyright developed in the age of the printing press, and was designed
+<     to fit with the system of centralized copying imposed by the printing
+<     press.  But the copyright system does not fit well with computer
+<     networks, and only draconian punishments can enforce it.
+< 
+<     The global corporations that profit from copyright are lobbying
+<     for draconian punishments, and to increase their copyright powers,
+<     while suppressing public access to technology.  But if we
+<     seriously hope to serve the only legitimate purpose of
+<     copyright--to promote progress, for the benefit of the
+<     public--then we must make changes in the other direction.
+---
+>      Copyright developed in the age of the printing press, and was designed
+>      to fit with the system of centralized copying imposed by the printing
+>      press.  But the copyright system does not fit well with computer
+>      networks, and only draconian punishments can enforce it.
+> 
+>      The global corporations that profit from copyright are lobbying
+>      for draconian punishments, and to increase their copyright powers,
+>      while suppressing public access to technology.  But if we
+>      seriously hope to serve the only legitimate purpose of
+>      copyright--to promote progress, for the benefit of the
+>      public--then we must make changes in the other direction.
+55,61c55,61
+<     Richard Stallman will explain how software patents obstruct
+<     software development.  Software patents are patents that cover
+<     software ideas.  They restrict the development of software, so
+<     that every design decision brings a risk of getting sued.  Patents
+<     in other fields restrict factories, but software patents restrict
+<     every computer user.  Economic research shows that they even
+<     retard progress.
+---
+>      Richard Stallman will explain how software patents obstruct
+>      software development.  Software patents are patents that cover
+>      software ideas.  They restrict the development of software, so
+>      that every design decision brings a risk of getting sued.  Patents
+>      in other fields restrict factories, but software patents restrict
+>      every computer user.  Economic research shows that they even
+>      retard progress.
+94a95,100
+> Breaks:
+> 
+> I absolutely refuse to have a break in the middle of my speech.
+> Once I start, I will go straight through.
+> 
+> 
+104,109c110,119
+< to refer to the operating system as "Linux".  "Open source" is the
+< slogan of a movement that was formed as a reaction against the free
+< software movement.  Those who support its views have a right to
+< promote them, but I would rather promote the ideals of free software.
+< See http://www.gnu.org/philosophy/free-software-for-freedom.html for
+< more explanation of the difference.
+---
+> to refer to the operating system as "Linux".
+> 
+> "Open source" is the slogan of a movement that was formed as a
+> reaction against the free software movement.  Those who support its
+> views have a right to promote them, but I disagree with them and I
+> want to promote the ideals of free software.  See
+> http://www.gnu.org/philosophy/free-software-for-freedom.html for more
+> explanation of the difference.  However, I will agree to participate
+> in events labeled "Free Software and Open Source", provided that my
+> speech is not the principal draw of the event.
+115c125
+< please talk with me about the plans for such a larger event before
+---
+> please talk with me about the plans for such a larger event _before_
+137,140c147
+< I can speak in English, French, and Spanish.  However, for Spanish it
+< is very important for a person to be seated next to me who speaks very
+< good English and Spanish, so I can ask him how to say certain things
+< when I need them.
+---
+> I can speak in English, French, and Spanish.
+145c152
+< speech.  Please do not ask me to do that.
+---
+> speech.  Please do not ask me to do that--I will refuse.
+150,151c157,160
+< transmitters and headsets.  It does require an interpreter capable of
+< doing simultaneous translation for more than an hour.
+---
+> transmitters and headsets.  However, it does require an interpreter
+> capable of doing simultaneous translation for more than an hour.
+> Do not propose doing this with a person whose translation skills
+> are not adequate for this.
+269a279,281
+> In the US, Canada, Spain and Italy you can obtain published copies in
+> English, Spanish, and Italian.
+> 
+275,279c287,291
+<    FSF would like to keep in touch with those who support us, to give
+<    you updates on what we are doing and how you can help.  If you are
+<    willing, Dr. Stallman asks that you fill out these contact cards,
+<    which he can take back with him so you can receive updates about
+<    FSF.  The FSF will not release this information unless forced to.
+---
+>     FSF would like to keep in touch with those who support us, to give
+>     you updates on what we are doing and how you can help.  If you are
+>     willing, Dr. Stallman asks that you fill out these contact cards,
+>     which he can take back with him so you can receive updates about
+>     FSF.  The FSF will not release this information unless forced to.
+395c407
+< <nick a nickhill.co.uk> well in advance of the speech.  He can advise
+---
+> <nick@nickhill.co.uk> well in advance of the speech.  He can advise
+420,421c432,433
+< convert audio to 64Kbps mono Ogg/Vorbis, and convert video to
+< ogg/theora with video quality set to 5 or more.  If you need advice
+---
+> convert audio to 64Kbps mono Ogg Vorbis, and convert video to
+> Ogg Theora with video quality set to 5 or more.  If you need advice
+431c443
+< OGG/Vorbis format is good for audio, and OGG for video.
+---
+> Ogg Vorbis format is good for audio, and Ogg Theora for video.
+465,471c477,481
+< For instance, the CDs may contain non-free software.  Most commercial
+< CDs of GNU/Linux contain non-free software in addition to the free
+< software.  If it isn't the official Debian GNU/Linux system, it almost
+< surely contains non-free software, so please don't hand it out or
+< offer it at my speech.  Even if it contains the official Debian
+< GNU/Linux system, the publisher may have added some non-free software
+< to that, so it is necessary to check.
+---
+> For instance, the CDs may contain non-free software.  Most distros of
+> GNU/Linux contain or suggest non-free software in addition to the free
+> software.  (And most of them call the system "Linux".)  Please check
+> with me before you allow a CD of GNU/Linux to be distributed at the
+> event.
+489,490c499,500
+< need you to arrange to cover the cost of my traveling to your city
+< (unless I've told you someone else will do it).
+---
+> need you to arrange to cover the cost of my traveling to and from your
+> city (unless I've told you someone else will do it).
+553,558c563,568
+< Above 70 fahrenheit (21 centigrade) I find sleeping quite difficult.
+< (If the air is very dry, I can stand up to 23 degrees.)  A little
+< above that temperature, an electric fan enables me to sleep.  More
+< than 3 degrees above that temperature, I need air conditioning to
+< sleep.  If there is a substantial chance of temperatures too hot for
+< me, please arrange in advance for me to have what I need.
+---
+> Above 72 fahrenheit (22 centigrade) I find sleeping quite difficult.
+> (If the air is dry, I can stand 23 degrees.)  A little above that
+> temperature, an electric fan enables me to sleep.  More than 3 degrees
+> above that temperature, I need air conditioning to sleep.  If there is
+> a substantial chance of temperatures too hot for me, please arrange in
+> advance for me to have what I need.
+670,673c680,683
+<     Richard Stallman
+<     77 Mass Ave rm 32-S381
+<     Cambridge MA 02139
+<     Phone number: 617-253-8830
+---
+>      Richard Stallman
+>      77 Mass Ave rm 32-S381
+>      Cambridge MA 02139
+>      Phone number: 617-253-8830
+766,781c776,795
+< 
+< Some foods I dislike include:
+< 
+<    avocado
+<    eggplant, usually (there are occasional exceptions)
+<    hot pepper
+<    liver (even in trace quantities)
+<    stomach and intestine; other organ meats
+<    oysters
+<    egg yolk, except when boiled completely hard
+<    many strong cheeses, especially those with green fungus
+<    desserts that contain fruit or liqueur
+<    sour fruits, such as grapefruit and most oranges
+<    beer
+<    coffee (though weak coffee flavor can be good in desserts)
+<    the taste of alcohol (so I don't drink anything stronger than wine)
+---
+> If I am ordering from the menu in a restaurant which has a variety,
+> there's no need for you to worry about the question of what I like; I
+> will take care of it.
+> 
+> But if you want to cook for me, or invite me to a restaurant that
+> specializes in just one thing, you need to know what I dislike:
+> 
+>     avocado
+>     eggplant, usually (there are occasional exceptions)
+>     hot pepper
+>     liver (even in trace quantities)
+>     stomach and intestine; other organ meats
+>     oysters
+>     egg yolk, except when boiled completely hard
+>     many strong cheeses, especially those with green fungus
+>     desserts that contain fruit or liqueur
+>     sour fruits, such as grapefruit and most oranges
+>     beer
+>     coffee (though weak coffee flavor can be good in desserts)
+>     the taste of alcohol (so I don't drink anything stronger than wine)
+785c799
+< most people do.  Always ask me in advance!
+---
+> most people do.  Instead, ask me in advance!
+796,797c810,811
+< to others than to me.  Have wine or don't, as you prefer, but whatever
+< you decide, choose it to please yourself and the others, not for me.
+---
+> to others than to me.  Have wine or don't, as you prefer; choose it to
+> please yourself and the others, not for me.
+800c814
+< I will drink a little, perhaps half a glass.
+---
+> I will drink a little, perhaps a glass.
+860d873
+< 

@@ -1,0 +1,61 @@
+8,11c8,11
+< I can manage to squeeze a speech into an hour, but some topics will be
+< omitted and there will be no time for questions.  Once we are going to
+< the trouble and expense of having me come and speak, we may as well do
+< a thorough job of it.
+---
+> I can manage to squeeze a speech on this topic into an hour, but some
+> subtopics will be omitted and there will be no time for questions.
+> Once we are going to the trouble and expense of having me come and
+> speak, we may as well do a thorough job of it.
+35,38c35,38
+<     Richard Stallman will speak about the purpose, goals, philosophy,
+<     methods, status, and future prospects of the GNU operating system,
+<     which in combination with the kernel Linux is now used by an
+<     estimated 17 to 20 million users world wide.
+---
+>     Richard Stallman will speak about the goals and philosophy of the
+>     Free Software Movement, and the status and history the GNU
+>     operating system, which in combination with the kernel Linux is
+>     now used by tens of millions of users world-wide.
+64a65,72
+> Photo:
+> 
+> There is a black-and-white photograph of me as a
+> 5820K Encapsulated Postscript file (http://www.stallman.org/rms-bw.eps)
+> 3762K JPEG file (http://www.stallman.org/rms-bw.jpeg), and
+> 5815K TIFF file (http://www.stallman.org/rms-bw.tiff).
+> 
+> 
+296a305,308
+> Please ask each journalist to agree to make a recording of the
+> interview.  Written notes are not reliable, so I have decided not to
+> do that sort of interview any more.
+> 
+305,307c317,319
+< time).  So what I will do is give private interviews to 2 or 3 of
+< them, whichever ones you think are most important, and see the rest of
+< them as a group (i.e. in a press conference).
+---
+> time).  So what I will do is give private interviews to 2 or maybe 3
+> of them, whichever ones you think are most important, and see the rest
+> of them as a group (i.e. in a press conference).
+351a364,375
+> Remote speeches by video connection:
+> 
+> I can do a speech remotely through a videoconferencing system.  I have
+> tried it using the internet, but video was so slow and gappy that I
+> don't want to try that again.  However, doing it by ISDN works well.
+> If I am at home, there is a facility I can use at no charge; you would
+> have to pay for the ISDN calls and for the facilities at your end.  If
+> I am somewhere else (which is true about half the time), then we will
+> need to find a videoconferencing facility for me to use; most likely
+> you will need to pay for that.
+> 
+> 
+421c445
+< conditioning or I will be unable to sleep.  Above 72 fahrenheit (22
+---
+> conditioning or I will be unable to sleep.  At 72 fahrenheit (22
+601a626
+> 

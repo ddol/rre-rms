@@ -1,0 +1,647 @@
+1,8c1,6
+< My usual speech about the Free Software Movement and GNU takes between
+< 2 and 2.5 hours.  That typically includes about one and a half hours
+< of my speaking, plus plenty of time for questions, because people
+< usually want to ask a lot of questions.
+< 
+< I can also do a shorter speech about free software which takes one hour
+< plus time for questions.  Some subtopics will be omitted, and the
+< picture may not be as clear.
+---
+> Here's the info packet about my speeches.
+> 
+> My usual speech about the Free Software Movement and GNU takes a
+> little under 1.5 hours in English, plus time for questions.  It is
+> best to allow plenty of time for questions, because people usually
+> want to ask a lot of questions.
+12c10
+<     The Free Software Movement and the GNU/Linux Operating System
+---
+>     Free Software in Ethics and in Practice
+14c12
+< For the shortened speech, we could use the title
+---
+> or
+16c14
+<     Free Software in Ethics and in Practice
+---
+>     The Free Software Movement and the GNU/Linux Operating System
+18c16
+< There are other topics I speak about, such as
+---
+> Other possible topics include
+26c24,25
+< These topics take just an hour.
+---
+> These topics take a little over an hour in English.
+> Each topic takes substantially longer in other languages.
+33,34c32
+< For a speech about the Free Software Movement and GNU/Linux, you
+< can use this abstract:
+---
+> For a speech about Free Software, you can use this abstract:
+41,42d38
+< That abstract will work for the one-hour speech as well.
+< 
+57c53
+< For Against Software Patents, you can use this abstract:
+---
+> For The Danger of Software Patents, you can use this abstract:
+67a64,78
+> Brief bio:
+> 
+> Richard Stallman launched the development of the GNU operating system
+> (see www.gnu.org) in 1984.  GNU is free software: everyone has the
+> freedom to copy it and redistribute it, as well as to make changes
+> either large or small.  The GNU/Linux system, basically the GNU
+> operating system with Linux added, is used on tens of millions of
+> computers today.  Stallman has received the ACM Grace Hopper Award, a
+> MacArthur Foundation fellowship, the Electronic Frontier Foundation's
+> Pioneer award, and the the Takeda Award for Social/Economic
+> Betterment, as well as several honorary doctorates.
+> 
+> (A longer version is available if you want it.)
+> 
+> 
+79c90,92
+< However, transcripts of my past speeches are available.
+---
+> However, transcripts of my past speeches are available.  If you can
+> make a transcript of my speech after I give it, that would be quite
+> useful.
+104c117,118
+< what I am trying to achieve.
+---
+> what I am trying to achieve, and I want to review the publicity plans
+> for the event.
+115c129,132
+< and sugar.  No other facilities are needed.
+---
+> and sugar.
+> 
+> No other facilities are needed.  I do not have slides or any sort
+> of presentation materials.
+126,132c143,151
+< is important to have a translator.
+< 
+< For the full speech on Free Software and the GNU/Linux System, the
+< only feasible kind of translation is simultaneous translation.  The
+< speech (with questions) normally lasts over two hours; to use
+< consecutive translation would double that to four hours.  That is too
+< long.
+---
+> is important to have a translator.  However, consecutive translation
+> is not feasible, because it would more than double the length of the
+> speech.  Please do not ask me to do that.
+> 
+> I have found it works to do simultaneous translation without special
+> systems: I speak into the ear of the interpreter, and the interpreter
+> speaks to the microphone.  This avoids the need for special
+> transmitters and headsets.  It does require an interpreter capable of
+> doing simultaneous translation for more than an hour.
+138,144c157,166
+< admission, please discuss this with me in advance and get my approval
+< for the plan.  I'm not categorically against limiting admission or
+< fees, but excluding people means the speech does less good, so I want
+< to make sure that the limitations are as small as necessary.  For
+< instance, you can allow students and low-paid people and political
+< activists to get in free, even if professionals have to pay.  We will
+< discuss what to do.
+---
+> admission, please discuss this with me *personally in advance* to get
+> my approval for the plan.  If you have imposed charges without my
+> direct personal approval, I may refuse to do the speech.
+> 
+> I'm not categorically against limiting admission or fees, but
+> excluding people means the speech does less good, so I want to make
+> sure that the limitations are as small as necessary.  For instance,
+> you can allow students and low-paid people and political activists to
+> get in free, even if professionals have to pay.  We will discuss what
+> to do.
+181,184c203,206
+< uses the term "free software", not "open source", when you refer to my
+< work.  This includes to the title and descriptions of my speech, of
+< the session it is in, of the track it is part of, and of the event
+< itself.
+---
+> uses the term "free software", not "open source", when you refer to
+> work that includes mine.  This includes to the title and descriptions
+> of my speech, of the session it is in, of the track it is part of, and
+> of the event itself.
+190c212
+< point is not to ask you to refer to my work more often than you
+---
+> point is not to ask you to refer to this work more often than you
+208,212c230,234
+< distribute, the system that 20 million people use, is basically the
+< GNU operating system, with Linux added as the kernel.  When people
+< call the whole system "Linux", they deny us the credit for our work,
+< and this is not right.  (See http://www.gnu.org/gnu/linux-and-gnu.html
+< for more explanation.)
+---
+> distribute, the system that tens of millions of people use, is
+> basically the GNU operating system, with Linux added as the kernel.
+> When people call the whole system "Linux", they deny us the credit for
+> our work, and this is not right.  (See
+> http://www.gnu.org/gnu/linux-and-gnu.html for more explanation.)
+234a257,270
+> Printing Free Software, Free Society
+> 
+> Please print copies of my book, Free Software, Free Society, to sell
+> at the event if you can.  The English version (230 pages) is available
+> in http://www.gnu.org/philosophy/fsfs/rms-essays.ps and the Spanish
+> version (318 pages) is in
+> http://www.gnu.org/philosophy/fsfs/free_software.es.pdf.
+> 
+> If you use ordinary copying and avoid fancy covers, you can sell them
+> for two or three times the cost of copying, and they will still be
+> cheap enough that many people will buy them.  Then you can give the
+> remaining money to the FSF, keeping some for your organization.
+> 
+> 
+245,247c281
+< In some cases I can bring preprinted contact cards or the FSF can ship
+< them to you.  Otherwise we can send you a file and you can print them.
+< A week before the talk, please ask me which one it will be.
+---
+> Please talk with my assistant to arrange this.
+287,289c321,322
+< speech, probably takes up two hours or more when you count the travel
+< time.  I may be able to spend some of that time answering my mail, but
+< it depends on details.
+---
+> speech, probably takes up two hours counting questions, autographs,
+> etc.  And then there is the travel time.
+352,354c385,397
+< Please do record the speech if you can.  We are always looking
+< for good recordings of my speeches, both audio and video, to put
+< on line.
+---
+> Please do record the speech if you can.  We are always looking for
+> good recordings of my speeches, both audio and video, to put on line.
+> However, please do not record using a system that produces a
+> proprietary format such as Windows Media Player format.  I will not
+> speak to make a recording that requires non-free software to be
+> viewed.
+> 
+> The GNU Project keeps an on-line audio and video collection of speech
+> recordings in audio-video.gnu.org.  If you are making an audio or
+> video recording of my speech, please write to Nick Hill
+> <nick a nickhill.co.uk> well in advance of the speech.  He can advise
+> you on how to make a recording that is good for further use, and can
+> arrange to install your recording on our site.
+360a404,424
+> Recording formats:
+> 
+> Please make sure that your audio or video recording is not compressed
+> with a substantially lossy codec (unless it is an Ogg codec).  If we
+> have to transcode the file, starting from a lower-quality base will
+> reduce the quality of the result.
+> 
+> It is best to provide audio recordings in the original recorded sample
+> rate, up to 44100Hz.  Monophonic is generally adequate for speech
+> recordings and saves a lot of space over stereo.
+> 
+> For video recordings, please use a high-quality encoding such as DV.
+> 
+> Please don't transcode recordings from one format to another before
+> sending to us, unless they have such a high bit rate that files are
+> impractically large.  If you do need to encode or transcode, please
+> convert audio to 64Kbps mono Ogg/Vorbis, and convert video to
+> ogg/theora with video quality set to 5 or more.  If you need advice
+> for how to do this, please ask.
+> 
+> 
+367,368c431
+< OGG/Vorbis format is good for audio, and OpenDIVX is good for video.
+< If OGG/Theora format is ready, let's use that for video.
+---
+> OGG/Vorbis format is good for audio, and OGG for video.
+372c435
+< I ask them to do.  The medium would contradict the message.
+---
+> I ask them to do.  The medium's message would contradict my message.
+382,389c445,455
+< I can do a speech remotely through a videoconferencing system.  I have
+< tried it using the internet, but video was so slow and gappy that I
+< don't want to try that again.  However, doing it by ISDN works well.
+< If I am at home, there is a facility I can use at no charge; you would
+< have to pay for the ISDN calls and for the facilities at your end.  If
+< I am somewhere else (which is true about half the time), then we will
+< need to find a videoconferencing facility for me to use; most likely
+< you will need to pay for that.
+---
+> I can do a speech remotely through a videoconferencing system.  This
+> can be done by Internet or by ISDN.  For good quality by Internet, we
+> need a maximum of 100msec response time for ping between your site and
+> where I am, and 100kbytes/sec transfer rate.
+> 
+> Using two or three ISDN lines gives good quality but the calls cost
+> money.  If I am at home, there is a facility I can use at no charge;
+> you would have to pay for the ISDN calls and for the facilities at
+> your end.  If I am somewhere else (which is true more than half the
+> time), then we will need to find a videoconferencing facility for me
+> to use; most likely you will need to pay for that.
+419c485,539
+< (...)
+---
+> 
+> Flights:
+> 
+> The FSF does not pay for my travel, and I can't afford to.  I will
+> need you to arrange to cover the cost of my traveling to your city
+> (unless I've told you someone else will do it).
+> 
+> I am traveling most of the time, and most of my trips include several
+> stops.  Chances are your city is neither the first nor the last stop
+> in the trip.  Please don't make assumptions about the itinerary;
+> instead, please ask me for whatever information you need.
+> 
+> Many organizations ask to buy the tickets and send them to me.  I do
+> not object to that method in principle, but it typically assumes the
+> trip goes to just one city.  That approach is hard to use for a
+> multi-destination trip, unless you want to pay for the whole trip.  So
+> normally I buy the tickets myself and get reimbursed by the various
+> places I am visiting.  For a multi-destination trip, we will need to
+> agree on what parts of the travel expenses you should cover.
+> 
+> Some organizations feel that hospitality calls for providing me with a
+> business class ticket.  That is indeed more comfortable, but an
+> economy class seat is good enough even on an overnight flight if it is
+> a window seat.  Meanwhile, speaking is my main source of income, and
+> the extra price of a business class ticket would be a lot more useful
+> for me if I can spend it on something else.  So if you were thinking
+> of spending extra for business class, how about if you pay the
+> extra to me as a speaker's fee instead?
+> 
+> We should plan for me to arrive (in the city itself, not just at the
+> airport) at least 24 hours before the speech; that way, even if the
+> flight is cancelled, there is a good chance I can still arrive in time
+> for the speech by taking the same flight the next day.
+> 
+> 
+> Lost tickets:
+> 
+> If you are not paying me a speaking fee, but you are paying for the
+> airline tickets, I must insist that you cover the costs if I have to
+> replace a lost ticket, the fee for changing the ticket if I miss a
+> flight, or any other surprise expenses associated with my travel to
+> and from your location.
+> 
+> This might seem unfair--if a ticket is lost, it could be my fault.
+> But my income is not large, and I cannot afford to assume this risk
+> myself if the event offers me no income.  The frustration I feel when
+> I suffer such a loss is excruciating.  It is better for me to decline
+> to travel to a certain place than to take such a risk.
+> 
+> 
+> Other expenses:
+> 
+> I expect you to cover expenses such as visa fees, fees for mailing my
+> passport back and forth, taxis to and from the airport, and so on.
+> 
+428c548
+< I have a door I can close to in order to have some privacy).  Staying
+---
+> I have a door I can close, in order to have some privacy).  Staying
+433,443c553,574
+< Note, however, that in a hot and/or humid place I need air
+< conditioning or I will be unable to sleep.  At 72 fahrenheit (22
+< centigrade) it becomes quite difficult except when the air is dry.
+< 
+< I sometimes like cats, but they are not good for me; I am somewhat
+< allergic to them.  So I need the bed and the room I will usually be
+< staying in to be clean of cat hair.  However, it is no problem if
+< there is a cat elsewhere in the house--I might even enjoy it.  Dogs
+< that occasionally jump up on people frighten me unless they are tiny.
+< But if they only do that when we enter the house, I can cope as long
+< as you hold the dog away from me at that time.
+---
+> Above 70 fahrenheit (21 centigrade) I find sleeping quite difficult.
+> (If the air is very dry, I can stand up to 23 degrees.)  A little
+> above that temperature, an electric fan enables me to sleep.  More
+> than 3 degrees above that temperature, I need air conditioning to
+> sleep.  If there is a substantial chance of temperatures too hot for
+> me, please arrange in advance for me to have what I need.
+> 
+> If you are planning for me to stay in a hotel, DO NOT take for granted
+> that the hotel has air conditioning--or that it will be working when I
+> arrive.  Some hotels shut off their air conditioning systems for part
+> of the year.  They often think it is unnecessary in seasons when the
+> temperature is usually in the mid 20s--and they follow their schedule
+> like stupid robots even if there is a heat wave.
+> 
+> So you must explicitly ask them: "Do you have air conditioning?  Will
+> it be functioning for the dates XXX-YYY?"
+> 
+> In some hotels with central air conditioning, it simply does not work
+> very well: it can make a room less hot, but can't make it cool.
+> Before using a hotel that has central air conditioning, find out what
+> temperature it can actually lower a room to, during the relevant
+> dates.
+454,458c585,589
+< If your country has this policy, please join me in striking a blow
+< against Big Brother, by finding a place other than a hotel for me to
+< stay in.  I will be happier in my visit if I can stay in a place that
+< doesn't demand to see my passport.  If the police want to talk with me
+< about free software, they are welcome to come to my speech.
+---
+> Please call the hotel and ask whether they will demand to see my
+> passport.  If it has this policy, please join me in striking a blow
+> against Big Brother, by looking for a place I can stay in that doesn't
+> demand to see my passport.  If the police want information about free
+> software, they are welcome to come to my speech.
+464,481c595
+< Beds:
+< 
+< Many people like hard beds, but they cause me muscle aches that keep
+< me awake.  In general there is no way you can determine for me whether
+< a bed is too hard; hardness is relative and we do not know how your
+< standards compare with mine.  But one data point is that futons are
+< always too hard for me.  I have tried many futons, and every one of
+< them was painful.  So if it isn't distinctly softer than every futon
+< you have ever seen, it is too hard.
+< 
+< If you don't know for a fact that I can sleep on the bed you have in
+< mind, please arrange to have on hand either a vacuum cleaner or a hair
+< dryer with a "cool" setting, so I can to inflate my air mattress if I
+< need it.
+< 
+< Hotel beds are often very hard; I cannot necessarily sleep on the bed
+< in the hotel.  But at least we can count on a hotel to have a vacuum
+< cleaner.
+---
+> Pets:
+483,484c597,609
+< In case you are wondering, I cannot feel a pea under a mattress, but I
+< might feel a peanut under a thin mattress.
+---
+> I like cats if they are friendly, but they are not good for me; I am
+> somewhat allergic to them.  This allergy makes my face itch and my
+> eyes water.  So the bed, and the room I will usually be staying in,
+> need to be clean of cat hair.  However, it is no problem if there is a
+> cat elsewhere in the house--I might even enjoy it.  Dogs that bark
+> angrily and/or jump up on me frighten me, unless they are small and
+> cannot reach much above my knees.  But if they only bark or jump when
+> we enter the house, I can cope, as long as you hold the dog away from
+> me at that time.  Aside from that issue, I'm ok with dogs.
+> 
+> If you can find a host for me that has a friendly parrot, I will be
+> very very glad.  If you can find someone who has a friendly parrot I
+> can visit with, that will be nice too.
+493c618,633
+< the net from the place I am staying.
+---
+> the net from the place I am staying.  I do NOT use browsers, I use the
+> SSH protocol.
+> 
+> If a hotel says "We have internet access for customers", that is so
+> vague that it cannot be relied on.  So please find out exactly what
+> they have and exactly what it will do.  If they have an ethernet, do
+> they have a firewall?  Does it permit SSH connections?  If they use a
+> wireless network, will an Orinoco Gold card work with it?  What
+> parameters does the user need to specify in order to talk with it?
+> 
+> Please check those things directly with the people who actually run
+> the network.  If you talk with someone who doesn't understand what
+> "SSH connection" means, or if he doesn't understand the difference
+> between "Internet" and "web browsing", that person is not competent to
+> give reliable information.  Don't rely on information from such a
+> person--talk to someone who knows!
+499,520c639,759
+< possible to call an ISP from the hotel *but they may be wrong*.  The
+< only way to tell for certain is to go to the hotel, try phoning with a
+< computer from a guest room, and see if it actually works.  Until you
+< have tested it, don't believe it!
+< 
+< I already have ISPs to call in the US and in some other places;
+< elsewhere, please find me a local ISP to call.  (It would be nice if
+< the account will continue working afterward, so that I can use it
+< again if I come back or from other places in the region.)  Hotel phone
+< fees may be significant, and I expect you to cover them.  However, I
+< normally connect to the net only for around ten minutes at a time,
+< twice a day, so it won't be too much.
+< 
+< If a hotel says "We have internet access for customers", that is so
+< vague it is meaningless.  So please find out exactly what they have.
+< If they have ethernet connections, that will work, provided they do
+< not have a firewall that blocks ssh.  If they have phone lines for
+< computers, that will work if you come up with an ISP I can use.  If
+< they have wireless lan, that won't work, since I do not have wireless
+< cards.
+< 
+< (...)
+---
+> possible to call an ISP from the hotel *but they may be wrong*.  For
+> instance, their phone switchboard may not recognize the tones produced
+> by modems.  The only way to tell for certain is to go to the hotel,
+> try phoning with a computer from a guest room, and see if it actually
+> works.  Until you have tested it, don't believe it!
+> 
+> I already have ISPs to call in the US and in many countries in Europe;
+> elsewhere, please find me a local ISP to call.  (It is best if you
+> lend me a permanent account that someone else uses, one that will
+> continue working afterward, so that I can use it again if I come back
+> or use it from other places in the region.)  Hotel phone rates may be
+> high; I expect you to cover them.  However, I normally connect to the
+> net only for around ten minutes at a time, twice a day, so the total
+> won't be too bad.
+> 
+> 
+> Paying me a reimbursement or a fee:
+> 
+> Please pay my reimbursement or fee to me personally; do not send it to
+> the FSF.  The FSF and I have completely separate finances, and the FSF
+> never pays for my travel.  The FSF welcomes donations, but please make
+> sure that money intended to me is not sent to them, because moving it
+> afterward would mean accounting headaches as well as extra work.
+> 
+> My assistant is not involved with my finances, so he cannot help you
+> with that issue.  Please send questions about payments to me directly.
+> 
+> If you pay me by check, and you're not in the US, make sure to get a
+> check that lists a corresponding US bank--otherwise it will cost me a
+> fee to deposit the check.  Please mail the check to:
+> 
+>     Richard Stallman
+>     77 Mass Ave rm 32-S381
+>     Cambridge MA 02139
+>     Phone number: 617-253-8830
+> 
+> Do not mail it to the FSF!
+> 
+> A wire transfer is also a good method of payment.  I will send you the
+> coordinates; ask if you need them.  The bank you use will charge a
+> fee, and my bank charges me $10 for each incoming transfer; please add
+> those fees to the amount, rather than taking them out of what I
+> receive.
+> 
+> If you are outside the US, please convert your currency to dollars in
+> your bank, then use one of the above methods to pay me the dollars.
+> My bank gives very bad exchange rates; yours is surely better.
+> 
+> Cash is also fine.
+> 
+> If you want an invoice, I will be glad to give you one.  Let's work
+> out what it should say by email before I arrive.  Please also check
+> before the visit whether you need any other forms, such as tax forms.
+> I would like to be able to take care of any necessary forms while I am
+> there, rather than wait till afterward.
+> 
+> 
+> Hospitality:
+> 
+> It is nice of you to want to be kind to me, but please don't offer
+> help all the time.  In general I am used to managing life on my own;
+> when I need help, I am not shy about asking.  So there is no need to
+> offer to help me.  Moreover, being constantly offered help is actually
+> quite distracting and tiresome.
+> 
+> So please, unless I am in grave immediate danger, please don't offer
+> help.  The nicest thing you can do is help when I ask, and otherwise
+> not worry about how I am doing.  Meanwhile, you can also ask me for
+> help when you need it.
+> 
+> One situation where I do not need help, let alone supervision, is in
+> crossing streets.  I grew up in the middle of the world's biggest
+> city, full of cars, and I have crossed streets without assistance even
+> in the chaotic traffic of Bangalore and Delhi.
+> 
+> In some places, my hosts act as if my every wish were their command.
+> By catering to my every whim, in effect they make me a tyrant over
+> them, which is not a role I like.  I get to thinking that I might
+> subject them to great burdens without even realizing.  I start being
+> afraid to express my appreciation of anything, because they would get
+> it and give it to me at any cost.  If it is night, and the stars are
+> beautiful, I hesitate to say so, lest my hosts feel obligated to try
+> to get one for me.
+> 
+> When I'm trying to decide what to do, often I mention things that
+> MIGHT be nice to do--depending on more details, if it fits the
+> schedule, if there isn't a better alternative, etc.  Some hosts take
+> such a tentative suggestion as an order, and try moving heaven and
+> earth to make it happen.  This excessive rigidity is not only quite
+> burdensome for other people, it can even fail in its goal of pleasing
+> me.  If there is a better alternative, I'd rather be flexible and
+> choose it instead--so please tell me.  If my tentative suggestion
+> imposes a lot of trouble on others, I want to drop it--so please tell
+> me.
+> 
+> 
+> Dinners:
+> 
+> If you are thinking of setting up a lunch or dinner for me with more
+> than 4 people total, please consider that as a meeting, and discuss it
+> with me in advance.  Such meals draw on my strength, just like
+> speeches and interviews.  They are not relaxation, they are work.
+> 
+> I expect to do work during my visit, but there is a limit on the
+> amount of work I can handle each day.  So please ask me in advance
+> about any large planned meal, and expect me to say no if I have a lot
+> of other work already.  If we are having a meal that I did not agree
+> to as a large meal, and other people ask if they can join, please tell
+> them no.  In both cases, please tell them that I need a chance to
+> relax after the other work I will have done.
+> 
+> Please don't be surprised if I pull out my computer at dinner and
+> begin handling some of my email.  I have difficulty hearing when there
+> is noise; at dinner, when people are speaking to each other, I usually
+> cannot hear their words.  Rather than feel bored, or impose on
+> everyone by asking them to speak slowly at me, I do some work.
+> 
+> Please don't try to pressure me to "relax" instead, and fall behind on
+> my work.  Surely you do not really want me to have to work double the
+> next day to catch up (assuming I even COULD catch up).  Please do not
+> interfere as I do what I need to do.
+527,532d765
+< So I like to go to restaurants that are good at whatever kind of food
+< they do.  I don't arrive with specific preferences for a kind of food
+< to eat--rather, I want to have whatever is good in the area: perhaps
+< the local traditional cuisine, or the food of an immigrant ethnic
+< group which is present in large numbers, or something unusual and
+< original.
+537,539c770
+<    eggplant, usually
+<    desserts that contain fruit or liqueur
+<    sour fruits, such as grapefruit and most oranges
+---
+>    eggplant, usually (there are occasional exceptions)
+543a775,785
+>    egg yolk, except when boiled completely hard
+>    many strong cheeses, especially those with green fungus
+>    desserts that contain fruit or liqueur
+>    sour fruits, such as grapefruit and most oranges
+>    beer
+>    coffee (though weak coffee flavor can be good in desserts)
+>    the taste of alcohol (so I don't drink anything stronger than wine)
+> 
+> Don't ever try to decide what food I should eat without asking me.
+> Never assume that I will surely like a certain dish, merely because
+> most people do.  Always ask me in advance!
+545,546d786
+< I often dislike foods that taste strongly of egg yolk,
+< and some strong cheeses.
+548,549c788,822
+< It would be nice for you to ask around among your acquaintances to
+< find people who like good food and are familiar with the area's
+---
+> Wine:
+> 
+> Wine is not very important to me--not like food.  I like some kinds of
+> wine, depending on the taste, and dislike others, but I don't remember
+> the names of wines I have liked, so it is useless to ask me.
+> 
+> Therefore, if you're having dinner with me, please don't ask me what
+> to do about wine.  I can't decide intelligently, and it matters more
+> to others than to me.  Have wine or don't, as you prefer, but whatever
+> you decide, choose it to please yourself and the others, not for me.
+> 
+> If you get a bottle of wine, I will taste it, and if I like the taste,
+> I will drink a little, perhaps half a glass.
+> 
+> 
+> Restaurants:
+> 
+> So I like to go to restaurants that are good at whatever kind of food
+> they do.  I don't arrive with specific preferences for a kind of food
+> to eat--rather, I want to have whatever is good there: perhaps the
+> local traditional cuisine, or the food of an immigrant ethnic group
+> which is present in large numbers, or something unusual and original.
+> 
+> So please don't ask me "Where do you want to eat?" or "What kind of
+> restaurant do you want to go to?"  I can't make an intelligent
+> decision without knowing the facts, and unless I am already familiar
+> with the city we're in, I can only get those facts from you.
+> 
+> The only general thing I can tell you is that what I like or dislike
+> about a meal is the sensation of eating the food.  Other things, such
+> as the decor of a restaurant, or the view from its windows, are
+> secondary.  Let's choose the restaurant based on its food.
+> 
+> A good approach is to ask around *in advance* among your acquaintances
+> to find people who like good food and are familiar with the area's
+567c840,841
+< (I am just a novice as a caver.)  I often find museums interesting.
+---
+> (I am just a novice as a caver.)  I often find museums interesting,
+> but it depends on the subject.
+569,571c843,844
+< If there is a chance to watch folk dancing, I would probably enjoy
+< that.  I tend to like music that has a feeling of dance in it, but I
+< sometimes like other kinds too.  However, I generally dislike the
+---
+> I tend to like music that has a feeling of dance in it, but I
+> sometimes like other kinds too.  However, I usually dislike the
+575c848,849
+< interested.
+---
+> interested.  If there is a chance to see folk dancing, I would
+> probably enjoy that.
+579a854,860
+> 
+> More arrangements:
+> 
+> Once we have a precise date for the speech, my assistant will contact
+> you with questions about the arrangements for the trip.  Please
+> respond as soon as possible with the information he asks for.
+> 
