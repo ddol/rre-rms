@@ -1,0 +1,55 @@
+ ______  _     _                ______  _     _             
+(_____ \(_)   | |              (_____ \(_)   | |            
+ _____) )_  __| |_____  ____    _____) )_  __| |_____  ____ 
+|  __  /| |/ _  | ___ |/ ___)  |  __  /| |/ _  | ___ |/ ___)
+| |  \ \| ( (_| | ____| |      | |  \ \| ( (_| | ____| |    
+|_|   |_|_|\____|_____)_|      |_|   |_|_|\____|_____)_|    
+     _______           _              _             
+    (_______)         | |         _  (_)            
+     _____  _   _ ___ | | _   _ _| |_ _  ___  ____  
+    |  ___)| | | / _ \| || | | (_   _) |/ _ \|  _ \ 
+    | |_____\ V / |_| | || |_| | | |_| | |_| | | | |
+    |_______)\_/ \___/ \_)____/   \__)_|\___/|_| |_|
+
+
+Richard Stallman's rider has been a cause of amusement, bemusement and
+confusion for many conference and lecture organisers who have hosted him. 
+It has even drawn the attention of the press[0].
+
+But what is the story behind this complex beast? When were certain clauses
+added, and why? We hope that with enough data regarding when modifications
+were made, we may be able to shed some light on the why's.
+
+If you have a copy of RMS's rider we would love to include it in this archive.
+You can mail me a copy personally if you do not want your identity attached to
+this project. I can be e-mailed at: David.Dolphin at skynet.ie
+
+If you want to upload a copy via github please do the following:
+
+==Preparation==
+
+You most likely received the rider via e-mail. Copy the full text of the rider
+to a text file. Name the file after the date you received the mail, in the 
+format yyymmdd.txt .
+
+Please ensure that you strip any mail headers. If the mail was forwarded to you
+remove the forwarding headers and any signatures. If the rider was included in
+a reply then remove any opening angle brackets and whitespace from the start of
+each line (it's trivial to do this in vi(m) with :%s/^\s*\(>\s*\)*// ). Trim 
+all blank lines from the start and end of the file. See examples of well 
+formatted riders in the fulltext folder.
+
+
+==Fork + Pull==
+ 
+Github are able to describe the process of merging a change in, far better than
+we can. See their docs[1].
+
+When you have a local repo set up you want to run:
+ ./build.sh 20050101.txt
+where 20050101.txt is the name of your full rider. The build script will insert
+the relevant diffs for you in the diffs directory. 
+
+
+[0] http://gizmodo.com/5853729/please-do-not-buy-richard-stallman-a-parrot-and-other-rules
+[1] http://help.github.com/send-pull-requests/
