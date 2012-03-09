@@ -51,5 +51,17 @@ where 20050101.txt is the name of your full rider. The build script will insert
 the relevant diffs for you in the diffs directory. 
 
 
+==License==
+
+Curiously, I've never seen a GFDL tag attached to RMS's rider. As such I assume
+that all fulltext riders are Copyright of RMS, as he is the author. Unless you
+consider the rider to be a part of the speaking engagement, for which RMS would
+have been paid. In that case it may be fair to assume that the riders are part
+of a work for hire, and without explict declaration of copyright each rider is
+copyright of the organisation who hosted the event.
+
+The code in build.sh is licensed under a BSD license.
+The text in this file is public domain.
+
 [0] http://gizmodo.com/5853729/please-do-not-buy-richard-stallman-a-parrot-and-other-rules
 [1] http://help.github.com/send-pull-requests/
