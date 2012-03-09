@@ -1,6 +1,11 @@
 #!/bin/bash
 # Rider Rider Evolution build script
 # Github: https://github.com/ddol/rre-rms
+# 
+# Usage:
+# ./build.sh              : Builds rider.txt, the current version of the rider
+# ./build.sh 20050601     : Builds the rider as it was on Jun 1, 2005
+# ./build.sh 20030502.txt : Inserts a new version of the rider into the history
 
 old_man=20530316 #  I'm assuming RMS won't release riders after he is 100
 
