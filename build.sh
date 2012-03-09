@@ -51,9 +51,10 @@ if [ -n "$1" ]
 then
   if [ ${1:(-4)} = ".txt" ]
   then
+    cp $1 fulltext/
     date="${1%.txt}" #  Serious funk, strips '.txt' from the end of $1 (arg 1)
     build # We need to have a finished rider.txt to diff against if newest
-  
+      
     if [ $date -gt ${diff_array[$max_index]} ]
     # Find out if the new file is appended or inserted
 

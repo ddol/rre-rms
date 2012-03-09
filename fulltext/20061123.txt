@@ -1,0 +1,873 @@
+Here's the info packet about my speeches.
+
+My usual speech about the Free Software Movement and GNU takes a
+little under 1.5 hours in English, plus time for questions.  It is
+best to allow plenty of time for questions, because people usually
+want to ask a lot of questions.
+
+A typical title would be this:
+
+     Free Software in Ethics and in Practice
+
+or
+
+     The Free Software Movement and the GNU/Linux Operating System
+
+Other possible topics include
+
+     Copyright vs Community in the Age of Computer Networks
+
+and
+
+     The Danger of Software Patents
+
+These topics take a little over an hour in English.
+Each topic takes substantially longer in other languages.
+
+I can also possibly speak about some other topic if you suggest one.
+
+
+Abstract:
+
+For a speech about Free Software, you can use this abstract:
+
+     Richard Stallman will speak about the goals and philosophy of the
+     Free Software Movement, and the status and history the GNU
+     operating system, which in combination with the kernel Linux is
+     now used by tens of millions of users world-wide.
+
+For Copyright vs Community, you can use this abstract:
+
+     Copyright developed in the age of the printing press, and was designed
+     to fit with the system of centralized copying imposed by the printing
+     press.  But the copyright system does not fit well with computer
+     networks, and only draconian punishments can enforce it.
+
+     The global corporations that profit from copyright are lobbying
+     for draconian punishments, and to increase their copyright powers,
+     while suppressing public access to technology.  But if we
+     seriously hope to serve the only legitimate purpose of
+     copyright--to promote progress, for the benefit of the
+     public--then we must make changes in the other direction.
+
+For The Danger of Software Patents, you can use this abstract:
+
+     Richard Stallman will explain how software patents obstruct
+     software development.  Software patents are patents that cover
+     software ideas.  They restrict the development of software, so
+     that every design decision brings a risk of getting sued.  Patents
+     in other fields restrict factories, but software patents restrict
+     every computer user.  Economic research shows that they even
+     retard progress.
+
+
+Brief bio:
+
+Richard Stallman launched the development of the GNU operating system
+(see www.gnu.org) in 1984.  GNU is free software: everyone has the
+freedom to copy it and redistribute it, as well as to make changes
+either large or small.  The GNU/Linux system, basically the GNU
+operating system with Linux added, is used on tens of millions of
+computers today.  Stallman has received the ACM Grace Hopper Award, a
+MacArthur Foundation fellowship, the Electronic Frontier Foundation's
+Pioneer award, and the the Takeda Award for Social/Economic
+Betterment, as well as several honorary doctorates.
+
+(A longer version is available if you want it.)
+
+
+Photo:
+
+There is a black-and-white photograph of me as a
+5820K Encapsulated Postscript file (http://www.stallman.org/rms-bw.eps)
+3762K JPEG file (http://www.stallman.org/rms-bw.jpeg), and
+5815K TIFF file (http://www.stallman.org/rms-bw.tiff).
+
+
+Asking for the text:
+
+I don't write my speeches in advance--that would take too much time.
+However, transcripts of my past speeches are available.  If you can
+make a transcript of my speech after I give it, that would be quite
+useful.
+
+
+Breaks:
+
+I absolutely refuse to have a break in the middle of my speech.
+Once I start, I will go straight through.
+
+
+Participation in a larger event:
+
+I am selective about the events I participate in.  If you are inviting
+me to speak at a larger event, please inform me now of the overall
+nature of the event, so I can make an informed decision about whether
+to participate.
+
+I usually decline to participate in "open source" or "Linux" events.
+See http://www.gnu.org/gnu/gnu-linux-faq.html for why it is incorrect
+to refer to the operating system as "Linux".
+
+"Open source" is the slogan of a movement that was formed as a
+reaction against the free software movement.  Those who support its
+views have a right to promote them, but I disagree with them and I
+want to promote the ideals of free software.  See
+http://www.gnu.org/philosophy/free-software-for-freedom.html for more
+explanation of the difference.  However, I will agree to participate
+in events labeled "Free Software and Open Source", provided that my
+speech is not the principal draw of the event.
+
+
+Erecting a larger event:
+
+If you are thinking of erecting a larger event around my speech,
+please talk with me about the plans for such a larger event _before_
+proceeding with them.  I want to make sure the event entirely supports
+what I am trying to achieve, and I want to review the publicity plans
+for the event.
+
+
+Facilities:
+
+A microphone is desirable if the room is large, but I have a very loud
+voice, so I don't need one for a small or medium room.  A supply of
+tea with milk and sugar would be nice; otherwise, non-diet pepsi will
+do.  (I dislike the taste of coke, and of all diet soda; also, there
+is an international boycott of the Coca Cola company for killing union
+organizers in Colombia).  If it is good tea, I like it without milk
+and sugar.
+
+No other facilities are needed.  I do not have slides or any sort
+of presentation materials.
+
+
+Languages:
+
+I can speak in English, French, and Spanish.
+
+If the audience won't be comfortable with a language I can speak, it
+is important to have a translator.  However, consecutive translation
+is not feasible, because it would more than double the length of the
+speech.  Please do not ask me to do that--I will refuse.
+
+I have found it works to do simultaneous translation without special
+systems: I speak into the ear of the interpreter, and the interpreter
+speaks to the microphone.  This avoids the need for special
+transmitters and headsets.  However, it does require an interpreter
+capable of doing simultaneous translation for more than an hour.
+Do not propose doing this with a person whose translation skills
+are not adequate for this.
+
+
+Restricting admission:
+
+If you plan to restrict admission to my speech, or charge a fee for
+admission, please discuss this with me *personally in advance* to get
+my approval for the plan.  If you have imposed charges without my
+direct personal approval, I may refuse to do the speech.
+
+I'm not categorically against limiting admission or fees, but
+excluding people means the speech does less good, so I want to make
+sure that the limitations are as small as necessary.  For instance,
+you can allow students and low-paid people and political activists to
+get in free, even if professionals have to pay.  We will discuss what
+to do.
+
+
+Sponsors:
+
+If corporations sponsor my talk, I am willing to include a small
+tasteful note of thanks in announcements and brochures, but no more
+than that.  There should be no descriptions of their products or
+services, and no banners with their names.  If a would-be sponsor
+insists on more than that, we have to do without that sponsor.
+
+If my speech is part of a pre-existing larger event that I have agreed
+to participate in, I can't impose such conditions for the whole event.
+However, if banners will be on display next to me while I am speaking,
+that is rather obnoxious; if they advertise organizations that I
+disapprove of on ethical grounds (which is not unlikely) I would want
+to take them down, cover them up, or turn them off during my speech.
+
+
+Publicity:
+
+The GNU Project constantly struggles against two widespread mistakes
+that undermine the effectiveness of our work: calling our work "open
+source", and calling the GNU operating system "Linux".  Another very
+bad mistake is using the term "intellectual property".
+
+The Free Software Movement and the Open Source Movement are like two
+political parties in our community.  I founded the Free Software
+Movement in 1984 along with the GNU Project; we call our work "free
+software" because it is software that respects the users freedom.  The
+Open Source Movement was founded, in 1998, specifically to reject our
+idealistic philosophy--they studiously avoid talking about freedom.
+See http://www.gnu.org/philosophy/free-software-for-freedom.html for
+more explanation of the difference between the two movements.
+
+So please make sure that all the publicity about the event (web site,
+email announcements, conference programs, direct mail, signs, etc),
+uses the term "free software", not "open source", when you refer to
+work that includes mine.  This includes to the title and descriptions
+of my speech, of the session it is in, of the track it is part of, and
+of the event itself.
+
+Of course, some of these names and descriptions may not refer to this
+work at all; for example, if a track or the whole event covers a much
+broader topic in which free software is just a small part, its name
+may not refer to free software.  That is normal and appropriate.  The
+point is not to ask you to refer to this work more often than you
+normally would, but that you should describe it accurately whenever
+you do refer to it.
+
+If other speakers in the same session, track, or event want their work
+to be categorized as "open source", that is a legitimate request for
+them to make.  In that case, please give "free software" equal mention
+with "open source".
+
+If you think it is useful to tell people how free software relates to
+open source, you can say that "since 1998, another group has used the
+term `open source' to describe a related activity."  That will tell
+people that my work has a relationship with "open source", which they
+may have heard of, without implying it is right to describe my work as
+"open source."
+
+The other widespread confusion is the idea of a "Linux operating
+system".  The system in question, the system that Debian and Red Hat
+distribute, the system that tens of millions of people use, is
+basically the GNU operating system, with Linux added as the kernel.
+When people call the whole system "Linux", they deny us the credit for
+our work, and this is not right.  (See
+http://www.gnu.org/gnu/linux-and-gnu.html for more explanation.)
+
+So please call this combined operating system "GNU/Linux" in all
+the publicity, in the titles and description of the session, track,
+event, etc., if and when you have reason to refer to it.
+
+For similar reasons, please don't use a penguin as a symbol for my
+work, or on the posters or notices for my speech.  The penguin stands
+for "Linux"; the symbol of GNU is a gnu.  So if you want to use a
+graphical image to symbolize GNU or my work, please use a gnu.
+
+If you have handled these issues well, nobody who looks at your
+material will get the impression that I work on "open source", or that
+I support "open source", or that my work is "part of Linux", or that I
+participated in the "development of Linux", or that GNU is the name of
+"a collection of tools".
+
+As for the term "intellectual property", that spreads confusion and
+hostile bias.  See http://www.gnu.org/philosophy/words-to-avoid.html
+for explanation.  I hope you will decide to reject that expression, as
+I do; but in any case, don't use it in connection with my speech.
+
+
+Printing Free Software, Free Society
+
+Please print copies of my book, Free Software, Free Society, to sell
+at the event if you can.  The English version (230 pages) is available
+in http://www.gnu.org/philosophy/fsfs/rms-essays.ps and the Spanish
+version (318 pages) is in
+http://www.gnu.org/philosophy/fsfs/free_software.es.pdf.
+
+If you use ordinary copying and avoid fancy covers, you can sell them
+for two or three times the cost of copying, and they will still be
+cheap enough that many people will buy them.  Then you can give the
+remaining money to the FSF, keeping some for your organization.
+
+In the US, Canada, Spain and Italy you can obtain published copies in
+English, Spanish, and Italian.
+
+
+At the speech:
+
+Please arrange for someone to hand out and collect our "contact cards".
+
+    FSF would like to keep in touch with those who support us, to give
+    you updates on what we are doing and how you can help.  If you are
+    willing, Dr. Stallman asks that you fill out these contact cards,
+    which he can take back with him so you can receive updates about
+    FSF.  The FSF will not release this information unless forced to.
+
+Please talk with my assistant to arrange this.
+
+
+Changes of plans:
+
+Don't assume that I can still come if you change the date.  My
+schedule is tight.  If you change the date by even one day, I may be
+unable to come.  However, I will certainly be flexible if there is no
+obstacle.  Please consult with me before making any change, and I will
+see what I can do.
+
+
+Scheduling other meetings:
+
+I have agreed to give a speech for you, and if the press wants to talk
+with me, I will do that for the sake of the cause.  However, if you
+would like me to give additional speeches or go to additional
+meetings, please ask me first.  Please ask me about *each* activity
+you would like me to perform.
+
+Many people assume that because I am traveling, I am having a
+vacation--that I have no other work to do, so I can spend the whole
+day speaking or meeting with people.  Some hosts even feel that they
+ought to try to fill up my time as a matter of good hospitality.
+Alas, it's not that way for me.
+
+The fact is, I have no vacations.  (Don't feel sorry for me; idleness
+is not something I wish for.)  I have to spend 6 to 8 hours *every
+day* doing my usual work, which is responding to email about the GNU
+Project and the Free Software Movement.  Work comes in every day for
+me, and if I skip it one day, I have to catch up another day.  During
+the week I usually fall behind; on weekends I try to catch up.
+
+Traveling takes up time, so I will be extra busy during my visit.  And
+it might be nice if I could do at least an hour or two of sightseeing
+during the visit.  So please ask me *in advance* about *each*
+additional speech, meeting, or other activity that would take time.  I
+don't mind being asked, and I may say yes, but I also may say no.
+
+Remember that an additional speech, even if it is just a one-hour
+speech, probably takes up two hours counting questions, autographs,
+etc.  And then there is the travel time.
+
+
+Interviews:
+
+I am glad to give interviews to the press about the GNU system, but
+before I do, I want to be sure they will not repeat the two common
+mistakes (calling the whole system "Linux" and associating GNU or me
+with "open source").  Please explain this, and ask the journalist if
+he will agree to call the system "GNU/Linux" in the article, and to
+make it clear that our work is "free software" not "open source".
+Recommend reading http://www.gnu.org/gnu/linux-and-gnu.html and
+http://www.gnu.org/philosophy/free-software-for-freedom.html for
+explanations of these issues.  If the journalist agrees, then I agree
+to an interview.  Please have this discussion by email, and save the
+messages in both directions.
+
+Sometimes a journalist gives a vaguely affirmative-sounding or
+sympathetic response which does not really answer "yes".  Examples are
+"I will do this as much as I can" and "I understand the distinction."
+Such an answer is actually just "maybe", so when you receive one,
+please ask for clarification.  If he says that the editor has the
+final decision, please respond with "Would you please consult the
+editor now, and tell us a firm decision?"
+
+Also please ask journalists to *see my speech* before the interview.
+My speeches are not technical; they focus on precisely the sort of
+philosophical questions that a journalist would probably want to
+cover.  If the journalist does not attend my speech, he will probably
+start by asking me to answer the same questions that I answer in the
+speech.  That is inefficient.
+
+Please ask each journalist to agree to make a recording of the
+interview.  Written notes are not reliable, so I have decided not to
+do that sort of interview any more.
+
+It is also a good idea for the journalist to read
+http://www.gnu.org/gnu/the-gnu-project.html and some of the articles
+in http://www.gnu.org/philosophy/ before the interview.  Those
+articles provide important background.  This is especially important
+for anyone who cannot come to my speech first.
+
+I am willing to meet with any number of journalists, but if there are
+many, I can't meet all of them individually (it would take too much
+time).  So what I will do is give private interviews to 2 or maybe 3
+of them, whichever ones you think are most important, and see the rest
+of them as a group (i.e. in a press conference).
+
+You and your associates can judge better than I do which journalists
+and which publications I should focus on.  So I would like you to
+advise me about that.  Please try to judge both the importance of the
+publication and the merits (intelligence, attention to accuracy,
+openness of mind, and absence of bias) of the journalist, if you can.
+
+If you schedule a press conference or group interview, please *plan
+the time of my speech to allow the inteview after it*.  It may be a
+good idea to find out from journalists what times are good for them,
+then schedule the conference, then schedule the speech before it.
+This way, they will all be able to get the full picture.
+
+
+Recording my speech:
+
+Please do record the speech if you can.  We are always looking for
+good recordings of my speeches, both audio and video, to put on line.
+However, please do not record using a system that produces a
+proprietary format such as Windows Media Player format.  I will not
+speak to make a recording that requires non-free software to be
+viewed.
+
+The GNU Project keeps an on-line audio and video collection of speech
+recordings in audio-video.gnu.org.  If you are making an audio or
+video recording of my speech, please write to Nick Hill
+<nick@nickhill.co.uk> well in advance of the speech.  He can advise
+you on how to make a recording that is good for further use, and can
+arrange to install your recording on our site.
+
+If you are making a recording, please *make sure* to tell me when the
+tape needs to be changed.  I will pause.  Please help me help you make
+the recording complete.
+
+
+Recording formats:
+
+Please make sure that your audio or video recording is not compressed
+with a substantially lossy codec (unless it is an Ogg codec).  If we
+have to transcode the file, starting from a lower-quality base will
+reduce the quality of the result.
+
+It is best to provide audio recordings in the original recorded sample
+rate, up to 44100Hz.  Monophonic is generally adequate for speech
+recordings and saves a lot of space over stereo.
+
+For video recordings, please use a high-quality encoding such as DV.
+
+Please don't transcode recordings from one format to another before
+sending to us, unless they have such a high bit rate that files are
+impractically large.  If you do need to encode or transcode, please
+convert audio to 64Kbps mono Ogg Vorbis, and convert video to
+Ogg Theora with video quality set to 5 or more.  If you need advice
+for how to do this, please ask.
+
+
+Putting my speech on the net:
+
+If you would like to put my speech on the Internet, or distribute it
+in digital form, that is ok provided you make sure that a user can
+play the recording on a GNU/Linux system using only free software.
+For instance, this means RealPlayer format is unacceptable.
+Ogg Vorbis format is good for audio, and Ogg Theora for video.
+
+This requirement is very important, because if it is not followed,
+viewing my speech will require people to do the exact opposite of what
+I ask them to do.  The medium's message would contradict my message.
+
+Because this is so important, please make sure everyone who might be
+involved in broadcasting the event, or who might be directly or
+indirectly involved in planning such a broadcast, knows this
+requirement in advance of the event.
+
+
+Remote speeches by video connection:
+
+I can do a speech remotely through a videoconferencing system.  This
+can be done by Internet or by ISDN.  For good quality by Internet, we
+need a maximum of 100msec response time for ping between your site and
+where I am, and 100kbytes/sec transfer rate.
+
+Using two or three ISDN lines gives good quality but the calls cost
+money.  If I am at home, there is a facility I can use at no charge;
+you would have to pay for the ISDN calls and for the facilities at
+your end.  If I am somewhere else (which is true more than half the
+time), then we will need to find a videoconferencing facility for me
+to use; most likely you will need to pay for that.
+
+
+Warning about giveways:
+
+You may find companies offering you CD-ROMs, books, fliers or
+publicity materials to give away or sell at my speech.  Please check
+them before you accept them, to make sure that they don't promote the
+very thing that we are working to replace.
+
+For instance, the CDs may contain non-free software.  Most distros of
+GNU/Linux contain or suggest non-free software in addition to the free
+software.  (And most of them call the system "Linux".)  Please check
+with me before you allow a CD of GNU/Linux to be distributed at the
+event.
+
+Books about use of the GNU/Linux system and about GNU programs are
+fine if they themselves are also free.  But many of them are non-free
+(see http://www.gnu.org/philosophy/free-doc.html).  To see if a book
+is free, check the license on the back of the title page.  If it uses
+the GNU Free Documentation License, or the Open Publication License
+version 1 without options A and B, then it is free.  If it isn't one
+of those, please show me the license and I will tell you if it is a
+free license.
+
+If companies send you publicity materials, please check with me before
+giving them out at my speech.
+
+
+Flights:
+
+The FSF does not pay for my travel, and I can't afford to.  I will
+need you to arrange to cover the cost of my traveling to and from your
+city (unless I've told you someone else will do it).
+
+I am traveling most of the time, and most of my trips include several
+stops.  Chances are your city is neither the first nor the last stop
+in the trip.  Please don't make assumptions about the itinerary;
+instead, please ask me for whatever information you need.
+
+Many organizations ask to buy the tickets and send them to me.  I do
+not object to that method in principle, but it typically assumes the
+trip goes to just one city.  That approach is hard to use for a
+multi-destination trip, unless you want to pay for the whole trip.  So
+normally I buy the tickets myself and get reimbursed by the various
+places I am visiting.  For a multi-destination trip, we will need to
+agree on what parts of the travel expenses you should cover.
+
+Some organizations feel that hospitality calls for providing me with a
+business class ticket.  That is indeed more comfortable, but an
+economy class seat is good enough even on an overnight flight if it is
+a window seat.  Meanwhile, speaking is my main source of income, and
+the extra price of a business class ticket would be a lot more useful
+for me if I can spend it on something else.  So if you were thinking
+of spending extra for business class, how about if you pay the
+extra to me as a speaker's fee instead?
+
+We should plan for me to arrive (in the city itself, not just at the
+airport) at least 24 hours before the speech; that way, even if the
+flight is cancelled, there is a good chance I can still arrive in time
+for the speech by taking the same flight the next day.
+
+
+Lost tickets:
+
+If you are not paying me a speaking fee, but you are paying for the
+airline tickets, I must insist that you cover the costs if I have to
+replace a lost ticket, the fee for changing the ticket if I miss a
+flight, or any other surprise expenses associated with my travel to
+and from your location.
+
+This might seem unfair--if a ticket is lost, it could be my fault.
+But my income is not large, and I cannot afford to assume this risk
+myself if the event offers me no income.  The frustration I feel when
+I suffer such a loss is excruciating.  It is better for me to decline
+to travel to a certain place than to take such a risk.
+
+
+Other expenses:
+
+I expect you to cover expenses such as visa fees, fees for mailing my
+passport back and forth, taxis to and from the airport, and so on.
+
+
+Accommodations:
+
+I am willing to stay in a hotel if that is the way you want to do it.
+Please book the hotel for me and arrange to pay the hotel directly.
+
+But if there is anyone who wants to offer a spare couch, or even some
+spare floor, I would much rather stay there than in a hotel (provided
+I have a door I can close, in order to have some privacy).  Staying
+with someone is more fun for me than a hotel, and it would also save
+you money.  Floor space is sufficient because I bring an air mattress
+with me.
+
+Above 72 fahrenheit (22 centigrade) I find sleeping quite difficult.
+(If the air is dry, I can stand 23 degrees.)  A little above that
+temperature, an electric fan enables me to sleep.  More than 3 degrees
+above that temperature, I need air conditioning to sleep.  If there is
+a substantial chance of temperatures too hot for me, please arrange in
+advance for me to have what I need.
+
+If you are planning for me to stay in a hotel, DO NOT take for granted
+that the hotel has air conditioning--or that it will be working when I
+arrive.  Some hotels shut off their air conditioning systems for part
+of the year.  They often think it is unnecessary in seasons when the
+temperature is usually in the mid 20s--and they follow their schedule
+like stupid robots even if there is a heat wave.
+
+So you must explicitly ask them: "Do you have air conditioning?  Will
+it be functioning for the dates XXX-YYY?"
+
+In some hotels with central air conditioning, it simply does not work
+very well: it can make a room less hot, but can't make it cool.
+Before using a hotel that has central air conditioning, find out what
+temperature it can actually lower a room to, during the relevant
+dates.
+
+If you put me in a hotel, please cover the costs of the telephone
+calls I will need to transfer my email.  Some hotels charge a lot of
+money for this.
+
+Many countries have a law that hotels must report all guests to the
+police.  In most cases, this orwellian policy applies not only to
+foreigners like me, but to citizens as well!  The citizens should be
+outraged by this, but often they are not.
+
+Please call the hotel and ask whether they will demand to see my
+passport.  If it has this policy, please join me in striking a blow
+against Big Brother, by looking for a place I can stay in that doesn't
+demand to see my passport.  If the police want information about free
+software, they are welcome to come to my speech.
+
+If you have found a person for me to stay with, please forward this
+section and the two following sections to that person.
+
+
+Pets:
+
+I like cats if they are friendly, but they are not good for me; I am
+somewhat allergic to them.  This allergy makes my face itch and my
+eyes water.  So the bed, and the room I will usually be staying in,
+need to be clean of cat hair.  However, it is no problem if there is a
+cat elsewhere in the house--I might even enjoy it.  Dogs that bark
+angrily and/or jump up on me frighten me, unless they are small and
+cannot reach much above my knees.  But if they only bark or jump when
+we enter the house, I can cope, as long as you hold the dog away from
+me at that time.  Aside from that issue, I'm ok with dogs.
+
+If you can find a host for me that has a friendly parrot, I will be
+very very glad.  If you can find someone who has a friendly parrot I
+can visit with, that will be nice too.
+
+
+Email:
+
+It is very important for me to be able to transfer email between my
+laptop and the net, so I can do my ordinary work.  While traveling, I
+often need to do the work and the transfer late at night, or in the
+morning before a departure.  So please set up a way I can connect to
+the net from the place I am staying.  I do NOT use browsers, I use the
+SSH protocol.
+
+If a hotel says "We have internet access for customers", that is so
+vague that it cannot be relied on.  So please find out exactly what
+they have and exactly what it will do.  If they have an ethernet, do
+they have a firewall?  Does it permit SSH connections?  If they use a
+wireless network, will an Orinoco Gold card work with it?  What
+parameters does the user need to specify in order to talk with it?
+
+Please check those things directly with the people who actually run
+the network.  If you talk with someone who doesn't understand what
+"SSH connection" means, or if he doesn't understand the difference
+between "Internet" and "web browsing", that person is not competent to
+give reliable information.  Don't rely on information from such a
+person--talk to someone who knows!
+
+A modem connection is fine if it works, so please verify in advance
+that the telephone line you expect me to use has a modular jack and
+that it works to call the ISP from that line.  Hotels in Europe and
+Asia often have peculiar phone systems; the staff may tell you it is
+possible to call an ISP from the hotel *but they may be wrong*.  For
+instance, their phone switchboard may not recognize the tones produced
+by modems.  The only way to tell for certain is to go to the hotel,
+try phoning with a computer from a guest room, and see if it actually
+works.  Until you have tested it, don't believe it!
+
+I already have ISPs to call in the US and in many countries in Europe;
+elsewhere, please find me a local ISP to call.  (It is best if you
+lend me a permanent account that someone else uses, one that will
+continue working afterward, so that I can use it again if I come back
+or use it from other places in the region.)  Hotel phone rates may be
+high; I expect you to cover them.  However, I normally connect to the
+net only for around ten minutes at a time, twice a day, so the total
+won't be too bad.
+
+
+Paying me a reimbursement or a fee:
+
+Please pay my reimbursement or fee to me personally; do not send it to
+the FSF.  The FSF and I have completely separate finances, and the FSF
+never pays for my travel.  The FSF welcomes donations, but please make
+sure that money intended to me is not sent to them, because moving it
+afterward would mean accounting headaches as well as extra work.
+
+My assistant is not involved with my finances, so he cannot help you
+with that issue.  Please send questions about payments to me directly.
+
+If you pay me by check, and you're not in the US, make sure to get a
+check that lists a corresponding US bank--otherwise it will cost me a
+fee to deposit the check.  Please mail the check to:
+
+     Richard Stallman
+     77 Mass Ave rm 32-S381
+     Cambridge MA 02139
+     Phone number: 617-253-8830
+
+Do not mail it to the FSF!
+
+A wire transfer is also a good method of payment.  I will send you the
+coordinates; ask if you need them.  The bank you use will charge a
+fee, and my bank charges me $10 for each incoming transfer; please add
+those fees to the amount, rather than taking them out of what I
+receive.
+
+If you are outside the US, please convert your currency to dollars in
+your bank, then use one of the above methods to pay me the dollars.
+My bank gives very bad exchange rates; yours is surely better.
+
+Cash is also fine.
+
+If you want an invoice, I will be glad to give you one.  Let's work
+out what it should say by email before I arrive.  Please also check
+before the visit whether you need any other forms, such as tax forms.
+I would like to be able to take care of any necessary forms while I am
+there, rather than wait till afterward.
+
+
+Hospitality:
+
+It is nice of you to want to be kind to me, but please don't offer
+help all the time.  In general I am used to managing life on my own;
+when I need help, I am not shy about asking.  So there is no need to
+offer to help me.  Moreover, being constantly offered help is actually
+quite distracting and tiresome.
+
+So please, unless I am in grave immediate danger, please don't offer
+help.  The nicest thing you can do is help when I ask, and otherwise
+not worry about how I am doing.  Meanwhile, you can also ask me for
+help when you need it.
+
+One situation where I do not need help, let alone supervision, is in
+crossing streets.  I grew up in the middle of the world's biggest
+city, full of cars, and I have crossed streets without assistance even
+in the chaotic traffic of Bangalore and Delhi.
+
+In some places, my hosts act as if my every wish were their command.
+By catering to my every whim, in effect they make me a tyrant over
+them, which is not a role I like.  I get to thinking that I might
+subject them to great burdens without even realizing.  I start being
+afraid to express my appreciation of anything, because they would get
+it and give it to me at any cost.  If it is night, and the stars are
+beautiful, I hesitate to say so, lest my hosts feel obligated to try
+to get one for me.
+
+When I'm trying to decide what to do, often I mention things that
+MIGHT be nice to do--depending on more details, if it fits the
+schedule, if there isn't a better alternative, etc.  Some hosts take
+such a tentative suggestion as an order, and try moving heaven and
+earth to make it happen.  This excessive rigidity is not only quite
+burdensome for other people, it can even fail in its goal of pleasing
+me.  If there is a better alternative, I'd rather be flexible and
+choose it instead--so please tell me.  If my tentative suggestion
+imposes a lot of trouble on others, I want to drop it--so please tell
+me.
+
+
+Dinners:
+
+If you are thinking of setting up a lunch or dinner for me with more
+than 4 people total, please consider that as a meeting, and discuss it
+with me in advance.  Such meals draw on my strength, just like
+speeches and interviews.  They are not relaxation, they are work.
+
+I expect to do work during my visit, but there is a limit on the
+amount of work I can handle each day.  So please ask me in advance
+about any large planned meal, and expect me to say no if I have a lot
+of other work already.  If we are having a meal that I did not agree
+to as a large meal, and other people ask if they can join, please tell
+them no.  In both cases, please tell them that I need a chance to
+relax after the other work I will have done.
+
+Please don't be surprised if I pull out my computer at dinner and
+begin handling some of my email.  I have difficulty hearing when there
+is noise; at dinner, when people are speaking to each other, I usually
+cannot hear their words.  Rather than feel bored, or impose on
+everyone by asking them to speak slowly at me, I do some work.
+
+Please don't try to pressure me to "relax" instead, and fall behind on
+my work.  Surely you do not really want me to have to work double the
+next day to catch up (assuming I even COULD catch up).  Please do not
+interfere as I do what I need to do.
+
+
+Food:
+
+I enjoy delicious food, and I like most kinds of cooking if they are
+done well (the exception being that I cannot eat anything very spicy).
+If I am ordering from the menu in a restaurant which has a variety,
+there's no need for you to worry about the question of what I like; I
+will take care of it.
+
+But if you want to cook for me, or invite me to a restaurant that
+specializes in just one thing, you need to know what I dislike:
+
+    avocado
+    eggplant, usually (there are occasional exceptions)
+    hot pepper
+    liver (even in trace quantities)
+    stomach and intestine; other organ meats
+    oysters
+    egg yolk, except when boiled completely hard
+    many strong cheeses, especially those with green fungus
+    desserts that contain fruit or liqueur
+    sour fruits, such as grapefruit and most oranges
+    beer
+    coffee (though weak coffee flavor can be good in desserts)
+    the taste of alcohol (so I don't drink anything stronger than wine)
+
+Don't ever try to decide what food I should eat without asking me.
+Never assume that I will surely like a certain dish, merely because
+most people do.  Instead, ask me in advance!
+
+
+Wine:
+
+Wine is not very important to me--not like food.  I like some kinds of
+wine, depending on the taste, and dislike others, but I don't remember
+the names of wines I have liked, so it is useless to ask me.
+
+Therefore, if you're having dinner with me, please don't ask me what
+to do about wine.  I can't decide intelligently, and it matters more
+to others than to me.  Have wine or don't, as you prefer; choose it to
+please yourself and the others, not for me.
+
+If you get a bottle of wine, I will taste it, and if I like the taste,
+I will drink a little, perhaps a glass.
+
+
+Restaurants:
+
+So I like to go to restaurants that are good at whatever kind of food
+they do.  I don't arrive with specific preferences for a kind of food
+to eat--rather, I want to have whatever is good there: perhaps the
+local traditional cuisine, or the food of an immigrant ethnic group
+which is present in large numbers, or something unusual and original.
+
+So please don't ask me "Where do you want to eat?" or "What kind of
+restaurant do you want to go to?"  I can't make an intelligent
+decision without knowing the facts, and unless I am already familiar
+with the city we're in, I can only get those facts from you.
+
+The only general thing I can tell you is that what I like or dislike
+about a meal is the sensation of eating the food.  Other things, such
+as the decor of a restaurant, or the view from its windows, are
+secondary.  Let's choose the restaurant based on its food.
+
+A good approach is to ask around *in advance* among your acquaintances
+to find people who like good food and are familiar with the area's
+restaurants.  They will be able to give good recommendations.
+
+
+Sightseeing:
+
+If I am visiting an interesting city or region, I will probably want
+to do a few hours of sightseeing in between the work.  But don't try
+to plan sightseeing for me without asking me first--I can only spare a
+limited time for it, so I am selective about where to go.  Please
+don't assume I want to see something just because it is customary to
+take visitors there.  That place may be of no interest with me.
+Instead, please tell me about possible places to visit--then I can say
+what I would like.
+
+I enjoy natural beauty such as mountains and rocky coasts, ancient
+buildings, impressive and unusual modern buildings, and trains.  I
+like caves, and if there is a chance to go caving I would enjoy that.
+(I am just a novice as a caver.)  I often find museums interesting,
+but it depends on the subject.
+
+I tend to like music that has a feeling of dance in it, but I
+sometimes like other kinds too.  However, I usually dislike the
+various genres that are popular in the US, such as rock, country, rap,
+reggae, techno, and composed American "folk".  Please tell me what
+unusual music and dance forms are present; I can tell you if I am
+interested.  If there is a chance to see folk dancing, I would
+probably enjoy that.
+
+If there is something else interesting and unique, please tell me
+about it.  Maybe I will be interested.
+
+
+More arrangements:
+
+Once we have a precise date for the speech, my assistant will contact
+you with questions about the arrangements for the trip.  Please
+respond as soon as possible with the information he asks for.
